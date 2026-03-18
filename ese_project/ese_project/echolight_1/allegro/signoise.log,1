@@ -1,0 +1,23 @@
+INFO: Loaded existing interconnect file 'C:\Users\garci\OneDrive\Desktop\echolight_1\echolight_14_01\echolight_1501\echolight_1\allegro\interconn.iml'
+INFO: Loaded existing interconnect file 'C:\Cadence\OrCADX_25.1\share\pcb\signal\cds_interconn.iml'
+INFO: Finished loading SigNoise interconnect libraries
+INFO: Field Solver bem2d for STL_0S_1R_1
+INFO: Executing command: bem2d 0 "C:/Users/garci/AppData/Local/Temp/#Taaaaap37768.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_2
+INFO: Executing command: bem2d 0 "C:/Users/garci/AppData/Local/Temp/#Taaaaaq37768.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_3
+INFO: Executing command: bem2d 0 "C:/Users/garci/AppData/Local/Temp/#Taaaaar37768.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_4
+INFO: Executing command: bem2d 0 "C:/Users/garci/AppData/Local/Temp/#Taaaaas37768.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_5
+INFO: Executing command: bem2d 0 "C:/Users/garci/AppData/Local/Temp/#Taaaaat37768.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_6
+INFO: Executing command: bem2d 0 "C:/Users/garci/AppData/Local/Temp/#Taaaaau37768.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_7
+INFO: Executing command: bem2d 0 "C:/Users/garci/AppData/Local/Temp/#Taaaaav37768.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_8
+INFO: Executing command: bem2d 0 "C:/Users/garci/AppData/Local/Temp/#Taaaaaw37768.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_9
+INFO: Executing command: bem2d 0 "C:/Users/garci/AppData/Local/Temp/#Taaaaax37768.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_10
+INFO: Executing command: bem2d 0 "C:/Users/garci/AppData/Local/Temp/#Taaaaay37768.in" 0.00127

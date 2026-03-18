@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : capc1608x90n.dra                              )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Thu Feb  5 15:11:43 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/ORCAD_LABORATORIES/workspace/libraries/allegropcb
+    Name      = capc1608x90n.psm
+    User      = ptsci
+    Machine   = PIETRO
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

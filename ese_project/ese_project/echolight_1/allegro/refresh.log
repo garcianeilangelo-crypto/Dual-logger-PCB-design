@@ -1,0 +1,57 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : echolight1.brd                                )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Sat Feb  7 17:47:42 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sat Feb  7 17:47:42 2026				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'C:/ORCAD_LABORATORIES/workspace/projects/echolight_7_2/echolight_1/allegro/echolight1.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'NO'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'YES'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'YES'
+Reset Pin Escapes (fanouts)            = 'YES'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+Symbol list file                       = 'C:/Users/ptsci/AppData/Local/Temp/#Taaaadg19408.tmp'
+
+
+------ Library Paths ------
+PSMPATH =  C:/ORCAD_LABORATORIES/workspace/libraries/allegropcb 
+
+PADPATH =  C:/ORCAD_LABORATORIES/workspace/libraries/allegropcb 
+
+
+------ Symbol Refresh Messages ------
+
+'SOT-23-5_DBV0005A_TEX'  symbol refreshed successfully.
+
+
+------ Updating padstacks referring to the refreshed shapes and flash symbols.  ------
+
+
+
+------ Pad Stack Refresh Messages ------
+
+'RX52Y20D0T'  pad stack refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 1 out 1
+    Design updated.
+

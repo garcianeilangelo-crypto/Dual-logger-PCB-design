@@ -1,0 +1,45 @@
+\t (00:00:05) allegro 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Sat Feb  7 12:49:13 2026
+\t (00:00:05)         Host=PIETRO User=ptsci Pid=19496 CPUs=12
+\t (00:00:05) CmdLine= c:\cadence\orcadx_25.1\tools\bin\allegro.exe C:\ORCAD_LABORATORIES\workspace\projects\echolight_7_2\echolight_1\allegro\echolight.brd
+\t (00:00:05) 
+\t (00:00:05) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:13) fillin yes 
+\i (00:00:13) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged echolight
+\d (00:00:13) Design opened: C:/ORCAD_LABORATORIES/workspace/projects/echolight_7_2/echolight_1/allegro/echolight.brd
+\i (00:00:13) trapsize 1576
+\i (00:00:14) trapsize 1689
+\i (00:00:14) trapsize 1576
+\i (00:00:14) trapsize 1009
+\i (00:00:14) trapsize 1226
+\t (00:00:14) > Sending response DoneOpenBoard
+\i (00:00:17) updateport SearchPane
+\i (00:00:17) generaledit 
+\i (00:00:47) prmed 
+\i (00:00:52) setwindow form.prmedit
+\i (00:00:52) FORM prmedit text  
+\i (00:00:53) setwindow pcb
+\i (00:00:53) QtSignal UCPTextParametersWidget UCPTextParametersTabWidget currentChanged "Font Styles"
+\i (00:00:58) QtSignal UCPTextParametersWidget UCPTextParametersTabWidget currentChanged "Text Blocks"
+\i (00:01:00) setwindow form.prmedit
+\i (00:01:00) FORM prmedit text_setup_button  
+\i (00:01:26) setwindow form.textblock
+\i (00:01:26) FORM textblock done  
+\i (00:01:28) setwindow form.prmedit
+\i (00:01:28) FORM prmedit done  
+\i (00:01:28) setwindow pcb
+\i (00:01:28) updateport SearchPane
+\i (00:01:28) generaledit 
+\i (00:01:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:49) exit 
+\t (00:01:49) Loading consmgr.cxt 
+\t (00:01:49) Loading acns_formula.cxt 
+\t (00:01:49) Lic Summary:
+[12:50:58.087282] Cdslmd servers:C:\Users\ptsci\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[12:50:58.087976] Feature usage summary:
+[12:50:58.087977] OrCAD_X_PCB_Professional_Plus  
+[12:50:58.087979] OrCAD_X_Professional_Plus  
+\t (00:01:49)     Journal end - Sat Feb  7 12:50:58 2026

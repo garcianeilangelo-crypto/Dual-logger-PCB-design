@@ -1,0 +1,9 @@
+INFO: Loaded existing interconnect file 'C:\Users\garci\OneDrive\Desktop\echolight_1_1601\echolight_1_1501\echolight_1\allegro\interconn.iml'
+INFO: Loaded existing interconnect file 'C:\Cadence\OrCADX_25.1\share\pcb\signal\cds_interconn.iml'
+INFO: Finished loading SigNoise interconnect libraries
+INFO: Field Solver bem2d for STL_1S_1R_11
+INFO: Executing command: bem2d 0 "C:/Users/garci/AppData/Local/Temp/#Taaaaap01912.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_12
+INFO: Executing command: bem2d 0 "C:/Users/garci/AppData/Local/Temp/#Taaaaaq01912.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_13
+INFO: Executing command: bem2d 0 "C:/Users/garci/AppData/Local/Temp/#Taaaaar01912.in" 0.00127

@@ -1,0 +1,883 @@
+\t (00:00:06) allegro 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
+\t (00:00:06)     Journal start - Thu Feb  5 20:39:00 2026
+\t (00:00:06)         Host=PRIME User=garci Pid=2428 CPUs=20
+\t (00:00:06) CmdLine= c:\cadence\orcadx_25.1\tools\bin\allegro.exe C:\Users\garci\OneDrive\Desktop\echolight_5_2 2\echolight_5_2\echolight_1\allegropcb\ANTENNA_PAD.dra
+\t (00:00:06) 
+\t (00:00:06) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "ANTENNA_PAD"
+\d (00:00:07) Design opened: C:/Users/garci/OneDrive/Desktop/echolight_5_2 2/echolight_5_2/echolight_1/allegropcb/ANTENNA_PAD.dra
+\i (00:00:07) trapsize 364
+\i (00:00:07) trapsize 391
+\i (00:00:08) trapsize 364
+\i (00:00:08) trapsize 282
+\i (00:00:08) trapsize 282
+\i (00:00:09) updateport SearchPane
+\i (00:00:10) generaledit 
+\t (00:00:10) [20:39:03.374441] Periodic Lic check successful
+[20:39:03.898731] Feature usage summary:
+
+\i (00:00:11) pick grid 0.1360 -0.1221
+\t (00:00:11) last pick:  0.0000 0.0000
+\i (00:00:13) move 
+\t (00:00:13) Select element(s) to move.
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 0.0288 -0.0769
+\t (00:00:20) Loading consmgr.cxt 
+\t (00:00:20) Loading acns_formula.cxt 
+\i (00:00:20) trapsize 141
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 0.0203 -0.0740
+\i (00:00:20) trapsize 71
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 0.1474 -0.0796
+\i (00:00:21) trapsize 141
+\i (00:00:25) zoom in 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom in 0.3901 -0.2320
+\i (00:00:25) trapsize 71
+\i (00:00:25) zoom in 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom in 0.3873 -0.2306
+\i (00:00:25) trapsize 35
+\i (00:00:25) zoom in 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom in 0.3845 -0.2299
+\i (00:00:25) trapsize 18
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out 0.3471 -0.1534
+\i (00:00:26) trapsize 35
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out 0.3472 -0.1533
+\i (00:00:26) trapsize 71
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out 0.3471 -0.1534
+\i (00:00:26) trapsize 141
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in 0.2512 -0.1732
+\i (00:00:28) trapsize 71
+\i (00:01:40) pick grid -0.0254 -0.0588
+\t (00:01:40) last pick:  0.0000 0.0000
+\t (00:01:40) last pick:  0.0000 0.0000
+\t (00:01:40) Element has no origin, using pick.
+\t (00:01:40) Pick new location for the element(s).
+\i (00:01:48) prepopup 0.2258 0.0132
+\i (00:01:54) pop dyn_option_select 'Snap pick to@:@Segment Midpoint' 
+\i (00:02:07) zoom out 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom out 0.3571 -0.2169
+\i (00:02:07) trapsize 141
+\i (00:02:07) zoom out 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom out 0.3571 -0.2170
+\i (00:02:07) trapsize 282
+\i (00:02:51) QtSignal Docked_Constraints_Panel_Wid PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:02:51) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:03:02) zoom in 1 
+\i (00:03:02) setwindow pcb
+\i (00:03:02) zoom in -0.0607 0.3646
+\i (00:03:02) trapsize 141
+\i (00:03:03) zoom in 1 
+\i (00:03:03) setwindow pcb
+\i (00:03:03) zoom in -0.0635 0.3618
+\i (00:03:03) trapsize 71
+\i (00:03:03) zoom out 1 
+\i (00:03:03) setwindow pcb
+\i (00:03:03) zoom out -0.0677 0.2955
+\i (00:03:03) trapsize 141
+\i (00:03:08) pick grid -0.0564 0.3153
+\t (00:03:08) last pick:  0.0000 0.0000
+\i (00:03:08) prepopup -0.0564 0.2814
+\i (00:03:12) pop dyn_option_select 'Snap pick to@:@Segment Midpoint' 
+\t (00:03:12) last pick:  -0.1650 0.4200
+\t (00:03:12) last pick:  -0.1650 0.4200
+\t (00:03:12) Element has no origin, using pick.
+\t (00:03:12) Pick new location for the element(s).
+\i (00:03:12) updateport SearchPane
+\i (00:03:35) zoom in 1 
+\i (00:03:35) setwindow pcb
+\i (00:03:35) zoom in -0.2371 0.5129
+\i (00:03:35) trapsize 71
+\i (00:03:35) zoom in 1 
+\i (00:03:35) setwindow pcb
+\i (00:03:35) zoom in -0.2371 0.5129
+\i (00:03:35) trapsize 35
+\i (00:03:35) zoom in 1 
+\i (00:03:35) setwindow pcb
+\i (00:03:35) zoom in -0.2371 0.5129
+\i (00:03:35) trapsize 18
+\i (00:03:36) zoom out 1 
+\i (00:03:36) setwindow pcb
+\i (00:03:36) zoom out -0.2346 0.5111
+\i (00:03:36) trapsize 35
+\i (00:03:36) zoom out 1 
+\i (00:03:36) setwindow pcb
+\i (00:03:36) zoom out -0.2339 0.5098
+\i (00:03:36) trapsize 71
+\i (00:03:37) zoom out 1 
+\i (00:03:37) setwindow pcb
+\i (00:03:37) zoom out -0.0660 0.2006
+\i (00:03:37) trapsize 141
+\i (00:03:37) zoom out 1 
+\i (00:03:37) setwindow pcb
+\i (00:03:37) zoom out -0.0717 0.2090
+\i (00:03:37) trapsize 282
+\i (00:03:37) zoom out 1 
+\i (00:03:37) setwindow pcb
+\i (00:03:37) zoom out -0.0942 0.2485
+\i (00:03:37) trapsize 565
+\i (00:03:41) zoom in 1 
+\i (00:03:41) setwindow pcb
+\i (00:03:41) zoom in -0.2523 0.4970
+\i (00:03:41) trapsize 282
+\i (00:03:43) zoom in 1 
+\i (00:03:43) setwindow pcb
+\i (00:03:43) zoom in -0.2579 0.4745
+\i (00:03:43) trapsize 141
+\i (00:03:43) zoom in 1 
+\i (00:03:43) setwindow pcb
+\i (00:03:43) zoom in -0.2579 0.4745
+\i (00:03:43) trapsize 71
+\i (00:03:44) zoom out 1 
+\i (00:03:44) setwindow pcb
+\i (00:03:44) zoom out -0.2578 0.4745
+\i (00:03:44) trapsize 141
+\i (00:03:48) zoom out 1 
+\i (00:03:48) setwindow pcb
+\i (00:03:48) zoom out -0.2127 0.7540
+\i (00:03:48) trapsize 282
+\i (00:03:48) zoom out 1 
+\i (00:03:48) setwindow pcb
+\i (00:03:48) zoom out -0.2128 0.7540
+\i (00:03:48) trapsize 565
+\i (00:03:52) zoom in 1 
+\i (00:03:52) setwindow pcb
+\i (00:03:52) zoom in -0.2127 0.3813
+\i (00:03:52) trapsize 282
+\i (00:03:52) zoom in 1 
+\i (00:03:52) setwindow pcb
+\i (00:03:52) zoom in -0.2127 0.3813
+\i (00:03:52) trapsize 141
+\i (00:03:52) zoom in 1 
+\i (00:03:52) setwindow pcb
+\i (00:03:52) zoom in -0.2126 0.3813
+\i (00:03:52) trapsize 71
+\i (00:03:53) zoom out 1 
+\i (00:03:53) setwindow pcb
+\i (00:03:53) zoom out -0.2168 0.4096
+\i (00:03:53) trapsize 141
+\i (00:04:07) pick grid -0.2507 0.3249
+\t (00:04:07) last pick:  0.0000 0.6350
+\i (00:04:08) prepopup -0.1914 0.0228
+\i (00:04:11) pop dyn_option_select 'Snap pick to@:@Segment Vertex' 
+\i (00:04:23) zoom out 1 
+\i (00:04:23) setwindow pcb
+\i (00:04:23) zoom out -0.0305 0.2938
+\i (00:04:23) trapsize 282
+\i (00:04:24) zoom in 1 
+\i (00:04:24) setwindow pcb
+\i (00:04:24) zoom in 0.8504 0.9206
+\i (00:04:24) trapsize 141
+\i (00:04:24) zoom in 1 
+\i (00:04:24) setwindow pcb
+\i (00:04:24) zoom in 0.8533 0.9263
+\i (00:04:24) trapsize 71
+\i (00:04:24) zoom in 1 
+\i (00:04:24) setwindow pcb
+\i (00:04:24) zoom in 0.8533 0.9277
+\i (00:04:24) trapsize 35
+\i (00:04:25) zoom in 1 
+\i (00:04:25) setwindow pcb
+\i (00:04:25) zoom in 0.7898 0.8579
+\i (00:04:25) trapsize 18
+\i (00:04:25) zoom in 1 
+\i (00:04:25) setwindow pcb
+\i (00:04:25) zoom in 0.7912 0.8526
+\i (00:04:25) trapsize 9
+\i (00:04:26) pick grid 0.8001 0.8498
+\t (00:04:26) last pick:  0.6350 0.6350
+\t (00:04:26) last pick:  0.6350 0.6350
+\t (00:04:26) Element has no origin, using pick.
+\t (00:04:26) Pick new location for the element(s).
+\i (00:04:26) updateport SearchPane
+\i (00:04:46) zoom out 1 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom out 0.7816 0.9195
+\i (00:04:46) trapsize 18
+\i (00:04:46) zoom out 1 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom out 0.7815 0.9196
+\i (00:04:46) trapsize 35
+\i (00:04:47) zoom out 1 
+\i (00:04:47) setwindow pcb
+\i (00:04:47) zoom out 0.6849 0.7247
+\i (00:04:47) trapsize 71
+\i (00:04:47) zoom out 1 
+\i (00:04:47) setwindow pcb
+\i (00:04:47) zoom out 0.6849 0.7247
+\i (00:04:47) trapsize 141
+\i (00:05:04) pick 0 0.83 
+\t (00:05:04) last pick:  0.0000 0.8300
+\i (00:05:10) QtSignal Docked_Constraints_Panel_Wid PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:05:10) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:05:11) zoom out 1 
+\t (00:05:11) [20:44:04.379809] Periodic Lic check successful
+[20:44:04.904099] Feature usage summary:
+
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom out 0.2020 0.1460
+\i (00:05:11) trapsize 282
+\i (00:05:11) zoom out 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom out 0.2021 0.1572
+\i (00:05:11) trapsize 565
+\i (00:05:11) zoom out 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom out 0.2247 0.1346
+\i (00:05:11) trapsize 1129
+\i (00:05:11) zoom in 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom in -1.3790 -0.3170
+\i (00:05:11) trapsize 565
+\i (00:05:11) zoom in 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom in -1.3790 -0.3170
+\i (00:05:11) trapsize 282
+\i (00:05:12) zoom in 1 
+\i (00:05:12) setwindow pcb
+\i (00:05:12) zoom in -1.2886 -0.3283
+\i (00:05:12) trapsize 141
+\i (00:05:14) zoom out 1 
+\i (00:05:14) setwindow pcb
+\i (00:05:14) zoom out -1.2886 -0.3283
+\i (00:05:14) trapsize 282
+\i (00:05:26) zoom in 1 
+\i (00:05:26) setwindow pcb
+\i (00:05:26) zoom in 0.1400 1.0326
+\i (00:05:26) trapsize 141
+\i (00:05:26) zoom in 1 
+\i (00:05:26) setwindow pcb
+\i (00:05:26) zoom in 0.1400 1.0327
+\i (00:05:26) trapsize 71
+\i (00:05:27) zoom in 1 
+\i (00:05:27) setwindow pcb
+\i (00:05:27) zoom in 0.1654 1.0510
+\i (00:05:27) trapsize 35
+\i (00:05:27) zoom in 1 
+\i (00:05:27) setwindow pcb
+\i (00:05:27) zoom in 0.1655 1.0511
+\i (00:05:27) trapsize 18
+\i (00:05:27) zoom in 1 
+\i (00:05:27) setwindow pcb
+\i (00:05:27) zoom in 0.1655 1.0511
+\i (00:05:27) trapsize 9
+\i (00:05:35) zoom out 1 
+\i (00:05:35) setwindow pcb
+\i (00:05:35) zoom out 0.1662 1.0455
+\i (00:05:35) trapsize 18
+\i (00:05:35) zoom out 1 
+\i (00:05:35) setwindow pcb
+\i (00:05:35) zoom out 0.1655 1.0429
+\i (00:05:35) trapsize 35
+\i (00:05:35) zoom out 1 
+\i (00:05:35) setwindow pcb
+\i (00:05:35) zoom out 0.1605 1.0366
+\i (00:05:35) trapsize 71
+\i (00:05:36) zoom out 1 
+\i (00:05:36) setwindow pcb
+\i (00:05:36) zoom out 0.0236 0.7486
+\i (00:05:36) trapsize 141
+\i (00:05:36) zoom out 1 
+\i (00:05:36) setwindow pcb
+\i (00:05:36) zoom out 0.0236 0.7486
+\i (00:05:36) trapsize 282
+\i (00:05:36) zoom out 1 
+\i (00:05:36) setwindow pcb
+\i (00:05:36) zoom out 0.0237 0.7486
+\i (00:05:36) trapsize 565
+\i (00:05:36) prepopup -0.4055 0.4211
+\i (00:05:40) pop dyn_option_select 'Snap pick to@:@Segment Midpoint' 
+\t (00:05:40) last pick:  -0.6350 0.8300
+\t (00:05:40) last pick:  -0.6350 0.8300
+\t (00:05:40) Element has no origin, using pick.
+\t (00:05:40) Pick new location for the element(s).
+\i (00:05:40) updateport SearchPane
+\i (00:05:45) QtSignal Docked_Constraints_Panel_Wid PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:05:45) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:05:53) pick 0 0 
+\t (00:05:53) last pick:  0.0000 0.0000
+\i (00:06:06) pick l 0 0 
+\t (00:06:06) last pick:  0.0000 0.0000
+\t (00:06:06) last pick:  0.0000 0.0000
+\t (00:06:06) Element has no origin, using pick.
+\t (00:06:06) Pick new location for the element(s).
+\i (00:06:06) updateport SearchPane
+\i (00:06:09) zoom out 1 
+\i (00:06:09) setwindow pcb
+\i (00:06:09) zoom out -0.2248 0.5792
+\i (00:06:09) trapsize 1129
+\i (00:06:10) zoom in 1 
+\i (00:06:10) setwindow pcb
+\i (00:06:10) zoom in -0.5635 0.3985
+\i (00:06:10) trapsize 565
+\i (00:06:10) zoom in 1 
+\i (00:06:10) setwindow pcb
+\i (00:06:10) zoom in -0.5635 0.3985
+\i (00:06:10) trapsize 282
+\i (00:06:15) zoom out 1 
+\i (00:06:15) setwindow pcb
+\i (00:06:15) zoom out -0.1230 0.5171
+\i (00:06:15) trapsize 565
+\i (00:06:15) zoom out 1 
+\i (00:06:15) setwindow pcb
+\i (00:06:15) zoom out -0.1230 0.5171
+\i (00:06:15) trapsize 1129
+\i (00:06:15) zoom out 1 
+\i (00:06:15) setwindow pcb
+\i (00:06:15) zoom out -0.1230 0.5171
+\i (00:06:15) trapsize 2259
+\i (00:06:16) zoom in 1 
+\i (00:06:16) setwindow pcb
+\i (00:06:16) zoom in -0.1230 0.6074
+\i (00:06:16) trapsize 1129
+\i (00:06:16) zoom in 1 
+\i (00:06:16) setwindow pcb
+\i (00:06:16) zoom in -0.1230 0.6075
+\i (00:06:16) trapsize 565
+\i (00:06:16) zoom in 1 
+\i (00:06:16) setwindow pcb
+\i (00:06:16) zoom in -0.1230 0.6075
+\i (00:06:16) trapsize 282
+\i (00:06:17) prepopup -0.1230 0.6075
+\i (00:06:32) pick grid -0.1230 0.6075
+\t (00:06:32) last pick:  0.0000 0.6350
+\i (00:06:35) prepopup 0.1480 0.1106
+\i (00:06:38) pop dyn_option_select 'Snap pick to@:@Segment Midpoint' 
+\i (00:06:41) pick grid 0.1480 0.1106
+\t (00:06:41) last pick:  0.0000 0.0000
+\t (00:06:41) last pick:  0.0000 0.0000
+\t (00:06:41) Element has no origin, using pick.
+\t (00:06:41) Pick new location for the element(s).
+\i (00:06:41) updateport SearchPane
+\i (00:06:44) pick grid -0.2529 0.2405
+\t (00:06:44) last pick:  0.0000 0.0000
+\i (00:06:45) pick grid -0.3715 0.8108
+\t (00:06:45) last pick:  -0.6350 0.6350
+\i (00:06:45) updateport SearchPane
+\i (00:06:49) move 
+\t (00:06:49) Select element(s) to move.
+\i (00:06:49) updateport SearchPane
+\i (00:06:50) pick grid -0.2698 0.3647
+\t (00:06:50) last pick:  0.0000 0.6350
+\t (00:06:50) last pick:  0.0000 0.6350
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Pick new location for the element(s).
+\i (00:06:52) prepopup -0.2472 0.3195
+\i (00:06:55) pop dyn_option_select 'Snap pick to@:@Segment Midpoint' 
+\i (00:07:00) prepopup 0.0012 0.3703
+\i (00:07:11) pop dyn_option_select 'Snap pick to@:@Segment Vertex' 
+\i (00:07:12) zoom in 1 
+\i (00:07:12) setwindow pcb
+\i (00:07:12) zoom in -0.0157 0.3816
+\i (00:07:12) trapsize 141
+\i (00:07:12) zoom in 1 
+\i (00:07:12) setwindow pcb
+\i (00:07:12) zoom in -0.0157 0.3817
+\i (00:07:12) trapsize 71
+\i (00:07:12) zoom in 1 
+\i (00:07:12) setwindow pcb
+\i (00:07:12) zoom in -0.0157 0.3817
+\i (00:07:12) trapsize 35
+\i (00:07:12) zoom in 1 
+\i (00:07:12) setwindow pcb
+\i (00:07:12) zoom in -0.0157 0.3818
+\i (00:07:12) trapsize 18
+\i (00:07:16) zoom out 1 
+\i (00:07:16) setwindow pcb
+\i (00:07:16) zoom out -0.0001 0.4195
+\i (00:07:16) trapsize 35
+\i (00:07:16) zoom out 1 
+\i (00:07:16) setwindow pcb
+\i (00:07:16) zoom out -0.0001 0.4195
+\i (00:07:16) trapsize 71
+\i (00:07:17) zoom out 1 
+\i (00:07:17) setwindow pcb
+\i (00:07:17) zoom out 0.2977 0.7230
+\i (00:07:17) trapsize 141
+\i (00:07:21) pick grid -0.3037 0.3192
+\t (00:07:21) last pick:  0.0000 0.6350
+\i (00:07:22) zoom in 1 
+\i (00:07:22) setwindow pcb
+\i (00:07:22) zoom in 0.0012 0.6467
+\i (00:07:22) trapsize 71
+\i (00:07:22) zoom in 1 
+\i (00:07:22) setwindow pcb
+\i (00:07:22) zoom in 0.0281 0.7315
+\i (00:07:22) trapsize 35
+\i (00:07:24) zoom in 1 
+\i (00:07:24) setwindow pcb
+\i (00:07:24) zoom in 0.0041 0.8543
+\i (00:07:24) trapsize 18
+\i (00:07:25) prepopup -0.0002 0.8501
+\i (00:07:28) pop dyn_option_select 'Snap pick to@:@Segment Vertex' 
+\t (00:07:28) last pick:  0.0000 0.8500
+\t (00:07:28) last pick:  0.0000 0.8500
+\t (00:07:28) Element has no origin, using pick.
+\t (00:07:28) Pick new location for the element(s).
+\i (00:07:28) updateport SearchPane
+\i (00:07:28) zoom out 1 
+\i (00:07:28) setwindow pcb
+\i (00:07:28) zoom out -0.0302 0.8727
+\i (00:07:28) trapsize 35
+\i (00:07:29) zoom out 1 
+\i (00:07:29) setwindow pcb
+\i (00:07:29) zoom out -0.0301 0.8726
+\i (00:07:29) trapsize 71
+\i (00:07:32) pick grid -0.0300 0.8727
+\t (00:07:32) last pick:  0.0000 0.6350
+\i (00:07:34) zoom out 1 
+\i (00:07:34) setwindow pcb
+\i (00:07:34) zoom out -0.1656 0.2713
+\i (00:07:34) trapsize 141
+\i (00:07:34) zoom out 1 
+\i (00:07:34) setwindow pcb
+\i (00:07:34) zoom out -0.1655 0.2714
+\i (00:07:34) trapsize 282
+\i (00:07:41) pick 0 0.83 
+\t (00:07:41) last pick:  0.0000 0.8300
+\i (00:07:41) updateport SearchPane
+\i (00:07:44) prepopup -0.2841 -0.3215
+\i (00:07:46) pick grid -0.7189 -0.3159
+\t (00:07:46) last pick:  -0.6350 0.0000
+\t (00:07:46) last pick:  -0.6350 0.0000
+\t (00:07:46) Element has no origin, using pick.
+\t (00:07:46) Pick new location for the element(s).
+\i (00:07:47) zoom in 1 
+\i (00:07:47) setwindow pcb
+\i (00:07:47) zoom in -0.7471 0.3165
+\i (00:07:47) trapsize 141
+\i (00:07:47) zoom in 1 
+\i (00:07:47) setwindow pcb
+\i (00:07:47) zoom in -0.7471 0.3166
+\i (00:07:47) trapsize 71
+\i (00:07:48) zoom out 1 
+\i (00:07:48) setwindow pcb
+\i (00:07:48) zoom out -0.7555 0.3533
+\i (00:07:48) trapsize 141
+\i (00:07:48) zoom out 1 
+\i (00:07:48) setwindow pcb
+\i (00:07:48) zoom out -0.7612 0.3731
+\i (00:07:48) trapsize 282
+\i (00:07:52) pick grid -0.8798 0.3223
+\t (00:07:52) last pick:  -0.6350 0.6350
+\i (00:07:55) move 
+\t (00:07:55) Select element(s) to move.
+\i (00:07:55) updateport SearchPane
+\i (00:08:00) pick 0 0 
+\t (00:08:00) last pick:  0.0000 0.0000
+\t (00:08:00) last pick:  0.0000 0.0000
+\t (00:08:00) Element has no origin, using pick.
+\t (00:08:00) Pick new location for the element(s).
+\i (00:09:35) pick grid -0.2699 -0.3270
+\t (00:09:35) last pick:  0.0000 -0.6350
+\i (00:09:39) pick grid 0.3964 -0.2593
+\t (00:09:39) last pick:  0.6350 0.0000
+\t (00:09:39) last pick:  0.6350 0.0000
+\t (00:09:39) Element has no origin, using pick.
+\t (00:09:39) Pick new location for the element(s).
+\i (00:09:39) updateport SearchPane
+\i (00:09:45) pick grid 0.4133 0.3110
+\t (00:09:45) last pick:  0.6350 0.0000
+\i (00:09:46) pick grid -0.0271 0.2150
+\t (00:09:46) last pick:  0.0000 0.0000
+\t (00:09:46) last pick:  0.0000 0.0000
+\t (00:09:46) Element has no origin, using pick.
+\t (00:09:46) Pick new location for the element(s).
+\i (00:09:46) updateport SearchPane
+\i (00:09:48) zoom in 1 
+\i (00:09:48) setwindow pcb
+\i (00:09:48) zoom in -0.1175 0.0569
+\i (00:09:48) trapsize 141
+\i (00:09:48) zoom in 1 
+\i (00:09:48) setwindow pcb
+\i (00:09:48) zoom in -0.1174 0.0597
+\i (00:09:48) trapsize 71
+\i (00:09:48) zoom in 1 
+\i (00:09:48) setwindow pcb
+\i (00:09:48) zoom in -0.1217 0.0682
+\i (00:09:48) trapsize 35
+\i (00:10:13) move 
+\t (00:10:13) [20:49:07.063418] Periodic Lic check successful
+[20:49:07.587707] Feature usage summary:
+
+\t (00:10:13) Select element(s) to move.
+\i (00:10:13) updateport SearchPane
+\i (00:10:19) pick grid -0.1562 0.0435
+\t (00:10:19) last pick:  0.0000 0.0000
+\t (00:10:19) last pick:  0.0000 0.0000
+\t (00:10:19) Element has no origin, using pick.
+\t (00:10:19) Pick new location for the element(s).
+\i (00:10:22) prepopup 0.0005 0.1819
+\i (00:10:25) pop dyn_option_select 'Snap pick to@:@Segment Midpoint' 
+\i (00:10:27) prepopup -0.0602 0.1875
+\i (00:10:33) pop dyn_option_select 'Snap pick to@:@Segment Vertex' 
+\i (00:10:34) zoom out 1 
+\i (00:10:34) setwindow pcb
+\i (00:10:34) zoom out -0.0645 0.1840
+\i (00:10:34) trapsize 71
+\i (00:10:34) zoom out 1 
+\i (00:10:34) setwindow pcb
+\i (00:10:34) zoom out -0.0644 0.1840
+\i (00:10:34) trapsize 141
+\i (00:10:34) zoom out 1 
+\i (00:10:34) setwindow pcb
+\i (00:10:34) zoom out -0.0644 0.1839
+\i (00:10:34) trapsize 282
+\i (00:10:35) pick grid 0.3026 0.0202
+\t (00:10:35) last pick:  0.0000 0.0000
+\i (00:10:36) prepopup 0.2461 -0.0137
+\i (00:10:39) pop dyn_option_select 'Snap pick to@:@Segment Vertex' 
+\i (00:10:42) zoom in 1 
+\i (00:10:42) setwindow pcb
+\i (00:10:42) zoom in -0.0362 -0.1267
+\i (00:10:42) trapsize 141
+\i (00:10:42) zoom in 1 
+\i (00:10:42) setwindow pcb
+\i (00:10:42) zoom in -0.0362 -0.1267
+\i (00:10:42) trapsize 71
+\i (00:10:42) pick grid -0.1505 -0.0138
+\t (00:10:42) last pick:  0.0000 0.0000
+\t (00:10:42) last pick:  0.0000 0.0000
+\t (00:10:42) Element has no origin, using pick.
+\t (00:10:42) Pick new location for the element(s).
+\i (00:10:42) updateport SearchPane
+\i (00:10:44) pick grid -0.3241 0.1952
+\t (00:10:44) last pick:  -0.6350 0.0000
+\i (00:10:44) zoom out 1 
+\i (00:10:44) setwindow pcb
+\i (00:10:44) zoom out -0.3425 0.2785
+\i (00:10:44) trapsize 141
+\i (00:10:44) zoom out 1 
+\i (00:10:44) setwindow pcb
+\i (00:10:44) zoom out -0.3340 0.2784
+\i (00:10:44) trapsize 282
+\i (00:10:44) zoom out 1 
+\i (00:10:44) setwindow pcb
+\i (00:10:44) zoom out -0.3227 0.2784
+\i (00:10:44) trapsize 565
+\i (00:10:44) zoom out 1 
+\i (00:10:44) setwindow pcb
+\i (00:10:44) zoom out -0.3001 0.2671
+\i (00:10:44) trapsize 1129
+\i (00:10:46) prepopup -0.6163 -0.3201
+\i (00:10:49) setwindow form.find
+\i (00:10:49) FORM find find_by_name  
+\i (00:10:51) setwindow pcb
+\i (00:10:51) QtSignal Docked_Constraints_Panel_Wid PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:10:51) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:10:56) setwindow form.mini
+\i (00:10:56) FORM mini move_relative_grid YES 
+\i (00:11:00) setwindow pcb
+\i (00:11:00) grid toggle 
+\i (00:11:00) zoom in 1 
+\i (00:11:00) setwindow pcb
+\i (00:11:00) zoom in -1.0680 -0.7041
+\i (00:11:00) trapsize 565
+\i (00:11:01) zoom in 1 
+\i (00:11:01) setwindow pcb
+\i (00:11:01) zoom in -1.0792 -0.6137
+\i (00:11:01) trapsize 282
+\i (00:11:01) prepopup -0.7291 -0.0998
+\i (00:11:04) pick grid -1.2938 -1.5002
+\t (00:11:04) last pick:  -1.2700 -1.2700
+\i (00:11:04) updateport SearchPane
+\i (00:11:05) pick grid -1.1187 -1.3477
+\t (00:11:05) last pick:  -1.2700 -1.2700
+\i (00:11:06) pick grid -0.1532 -0.7379
+\t (00:11:06) last pick:  0.0000 -0.6350
+\t (00:11:06) last pick:  0.0000 -0.6350
+\t (00:11:06) Element has no origin, using pick.
+\t (00:11:06) Pick new location for the element(s).
+\i (00:11:10) pick grid 0.3155 -0.2692
+\t (00:11:10) last pick:  0.0000 0.0000
+\i (00:11:11) prepopup -0.0572 -0.2805
+\i (00:11:19) pop dyn_option_select 'Snap pick to@:@Persistent snap@:@Segment' 
+\i (00:11:21) zoom in 1 
+\i (00:11:21) setwindow pcb
+\i (00:11:21) zoom in -0.0403 -0.3822
+\i (00:11:21) trapsize 141
+\i (00:11:21) zoom in 1 
+\i (00:11:21) setwindow pcb
+\i (00:11:21) zoom in -0.0402 -0.3822
+\i (00:11:21) trapsize 71
+\i (00:11:21) zoom in 1 
+\i (00:11:21) setwindow pcb
+\i (00:11:21) zoom in -0.0402 -0.3822
+\i (00:11:21) trapsize 35
+\i (00:11:25) pick grid -0.0367 -0.3899
+\t (00:11:25) last pick:  0.0000 -0.6350
+\t (00:11:25) last pick:  -0.0367 -0.3900
+\t (00:11:25) Element has no origin, using pick.
+\t (00:11:25) Pick new location for the element(s).
+\i (00:11:25) updateport SearchPane
+\i (00:11:57) pick 0 0.83 
+\t (00:11:57) last pick:  0.0000 0.8300
+\i (00:11:59) zoom out 1 
+\i (00:11:59) setwindow pcb
+\i (00:11:59) zoom out 0.0184 -0.6772
+\i (00:11:59) trapsize 71
+\i (00:11:59) zoom out 1 
+\i (00:11:59) setwindow pcb
+\i (00:11:59) zoom out 0.0184 -0.6772
+\i (00:11:59) trapsize 141
+\i (00:11:59) zoom out 1 
+\i (00:11:59) setwindow pcb
+\i (00:11:59) zoom out 0.0184 -0.6771
+\i (00:11:59) trapsize 282
+\i (00:11:59) zoom out 1 
+\i (00:11:59) setwindow pcb
+\i (00:11:59) zoom out 0.0184 -0.6771
+\i (00:11:59) trapsize 565
+\i (00:12:01) zoom in 1 
+\i (00:12:01) setwindow pcb
+\i (00:12:01) zoom in -0.4559 1.5476
+\i (00:12:01) trapsize 282
+\i (00:12:03) QtSignal Docked_Constraints_Panel_Wid PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:12:03) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:12:04) QtSignal Docked_Constraints_Panel_Wid PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:12:04) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:12:13) pick 0 -0.83 
+\t (00:12:13) last pick:  0.0000 -0.8300
+\i (00:12:13) updateport SearchPane
+\i (00:12:17) prepopup -0.1453 0.8757
+\i (00:12:21) pick grid -0.2018 0.9039
+\t (00:12:21) last pick:  0.0000 0.6350
+\t (00:12:21) last pick:  -0.2018 0.8800
+\t (00:12:22) Element has no origin, using pick.
+\t (00:12:22) Pick new location for the element(s).
+\i (00:12:34) pick 0 0.83 
+\t (00:12:34) last pick:  0.0000 0.8300
+\i (00:12:42) prepopup -0.1340 0.8757
+\i (00:12:47) pick grid -0.2752 0.8870
+\t (00:12:47) last pick:  0.0000 0.6350
+\t (00:12:47) last pick:  -0.2752 0.8800
+\t (00:12:47) Element has no origin, using pick.
+\t (00:12:47) Pick new location for the element(s).
+\i (00:12:47) updateport SearchPane
+\i (00:12:48) prepopup -0.2752 0.8870
+\i (00:12:58) pick 0 -0.83 
+\t (00:12:58) last pick:  0.0000 -0.8300
+\i (00:13:11) zoom in 1 
+\i (00:13:11) setwindow pcb
+\i (00:13:11) zoom in -0.1171 0.4635
+\i (00:13:11) trapsize 141
+\i (00:13:12) zoom in 1 
+\i (00:13:12) setwindow pcb
+\i (00:13:12) zoom in -0.1143 0.4663
+\i (00:13:12) trapsize 71
+\i (00:13:17) zoom out 1 
+\i (00:13:17) setwindow pcb
+\i (00:13:17) zoom out -0.0493 0.5595
+\i (00:13:17) trapsize 141
+\i (00:13:17) zoom out 1 
+\i (00:13:17) setwindow pcb
+\i (00:13:17) zoom out -0.0833 0.5566
+\i (00:13:17) trapsize 282
+\i (00:13:17) zoom out 1 
+\i (00:13:17) setwindow pcb
+\i (00:13:17) zoom out -0.1397 0.5567
+\i (00:13:17) trapsize 565
+\i (00:13:23) zoom in 1 
+\i (00:13:23) setwindow pcb
+\i (00:13:23) zoom in 0.5040 0.2518
+\i (00:13:23) trapsize 282
+\i (00:13:23) zoom in 1 
+\i (00:13:23) setwindow pcb
+\i (00:13:23) zoom in 0.4984 0.2575
+\i (00:13:23) trapsize 141
+\i (00:13:25) pick grid 0.1653 0.3309
+\t (00:13:25) last pick:  0.0000 0.6350
+\t (00:13:25) last pick:  0.1650 0.3309
+\t (00:13:25) Element has no origin, using pick.
+\t (00:13:25) Pick new location for the element(s).
+\i (00:13:25) updateport SearchPane
+\i (00:13:49) pick 0.4 
+\t (00:13:49) last pick:  0.4000 0.3309
+\i (00:13:52) zoom in 1 
+\i (00:13:52) setwindow pcb
+\i (00:13:52) zoom in 0.1427 0.0006
+\i (00:13:52) trapsize 71
+\i (00:13:52) zoom in 1 
+\i (00:13:52) setwindow pcb
+\i (00:13:52) zoom in 0.1441 0.0006
+\i (00:13:52) trapsize 35
+\i (00:13:59) pick grid 0.1625 -0.0015
+\t (00:13:59) last pick:  0.0000 0.0000
+\t (00:13:59) last pick:  0.1650 -0.0015
+\t (00:13:59) Element has no origin, using pick.
+\t (00:13:59) Pick new location for the element(s).
+\i (00:13:59) updateport SearchPane
+\i (00:14:03) pick grid 0.1625 -0.0015
+\t (00:14:03) last pick:  0.1650 -0.0015
+\i (00:14:04) prepopup 0.1653 0.0021
+\i (00:14:09) pop dyn_option_select 'Snap pick to@:@Persistent snap (Segment)@:@Segment' 
+\i (00:14:12) pick grid 0.1660 0.0352
+\t (00:14:12) last pick:  0.0000 0.0000
+\t (00:14:12) last pick:  0.1650 0.0352
+\t (00:14:12) Element has no origin, using pick.
+\t (00:14:12) Pick new location for the element(s).
+\i (00:14:12) updateport SearchPane
+\i (00:14:20) pick 0.4 0 
+\t (00:14:20) last pick:  0.4000 0.0000
+\i (00:14:22) zoom out 1 
+\i (00:14:22) setwindow pcb
+\i (00:14:22) zoom out 0.0820 0.1326
+\i (00:14:22) trapsize 71
+\i (00:14:22) zoom out 1 
+\i (00:14:22) setwindow pcb
+\i (00:14:22) zoom out 0.0821 0.1327
+\i (00:14:22) trapsize 141
+\i (00:14:22) zoom out 1 
+\i (00:14:22) setwindow pcb
+\i (00:14:22) zoom out 0.0820 0.1327
+\i (00:14:22) trapsize 282
+\i (00:14:23) zoom in 1 
+\i (00:14:23) setwindow pcb
+\i (00:14:23) zoom in -0.0421 -0.0480
+\i (00:14:23) trapsize 141
+\i (00:14:27) prepopup 0.1640 -0.3105
+\i (00:14:35) pop dyn_option_select 'Snap pick to@:@Segment Vertex' 
+\t (00:14:35) last pick:  0.1650 -1.0250
+\t (00:14:35) last pick:  0.1650 -1.0250
+\t (00:14:35) Element has no origin, using pick.
+\t (00:14:35) Pick new location for the element(s).
+\i (00:14:35) updateport SearchPane
+\i (00:14:36) zoom in 1 
+\i (00:14:36) setwindow pcb
+\i (00:14:36) zoom in 0.1273 -0.3952
+\i (00:14:36) trapsize 71
+\i (00:14:36) zoom in 1 
+\i (00:14:36) setwindow pcb
+\i (00:14:36) zoom in 0.1330 -0.3952
+\i (00:14:36) trapsize 35
+\i (00:14:36) zoom in 1 
+\i (00:14:36) setwindow pcb
+\i (00:14:36) zoom in 0.1330 -0.3952
+\i (00:14:36) trapsize 18
+\i (00:14:40) pick grid 0.1330 -0.3952
+\t (00:14:40) last pick:  0.1650 -0.3900
+\i (00:14:58) pick 0.4 -0.83 
+\t (00:14:58) last pick:  0.4000 -0.8300
+\i (00:14:58) updateport SearchPane
+\i (00:14:59) zoom out 1 
+\i (00:14:59) setwindow pcb
+\i (00:14:59) zoom out 0.0451 -0.3042
+\i (00:14:59) trapsize 35
+\i (00:14:59) zoom out 1 
+\i (00:14:59) setwindow pcb
+\i (00:14:59) zoom out 0.0974 -0.3232
+\i (00:14:59) trapsize 71
+\i (00:15:00) zoom out 1 
+\i (00:15:00) setwindow pcb
+\i (00:15:00) zoom out 0.1354 -0.3303
+\i (00:15:00) trapsize 141
+\i (00:15:00) zoom out 1 
+\i (00:15:00) setwindow pcb
+\i (00:15:00) zoom out 0.1552 -0.3387
+\i (00:15:00) trapsize 282
+\i (00:15:01) pick grid -0.2230 -0.7115
+\t (00:15:01) last pick:  0.0000 -0.6350
+\i (00:15:03) zoom in 1 
+\i (00:15:03) setwindow pcb
+\t (00:15:03) [20:53:57.081152] Periodic Lic check successful
+[20:53:57.081153] Feature usage summary:
+
+\i (00:15:03) zoom in 0.3134 -0.5985
+\i (00:15:03) trapsize 141
+\i (00:15:03) zoom in 1 
+\i (00:15:03) setwindow pcb
+\i (00:15:03) zoom in 0.3134 -0.5929
+\i (00:15:03) trapsize 71
+\i (00:15:03) zoom in 1 
+\i (00:15:03) setwindow pcb
+\i (00:15:03) zoom in 0.3022 -0.5787
+\i (00:15:03) trapsize 35
+\i (00:15:03) zoom out 1 
+\i (00:15:03) setwindow pcb
+\i (00:15:03) zoom out 0.2542 -0.4509
+\i (00:15:03) trapsize 71
+\i (00:15:03) zoom out 1 
+\i (00:15:03) setwindow pcb
+\i (00:15:03) zoom out 0.2584 -0.4551
+\i (00:15:03) trapsize 141
+\i (00:15:03) zoom out 1 
+\i (00:15:03) setwindow pcb
+\i (00:15:03) zoom out 0.2640 -0.4580
+\i (00:15:03) trapsize 282
+\i (00:15:04) zoom in 1 
+\i (00:15:04) setwindow pcb
+\i (00:15:04) zoom in -0.1199 -0.2378
+\i (00:15:04) trapsize 141
+\i (00:15:04) zoom in 1 
+\i (00:15:04) setwindow pcb
+\i (00:15:04) zoom in -0.1198 -0.2378
+\i (00:15:04) trapsize 71
+\i (00:15:05) zoom in 1 
+\i (00:15:05) setwindow pcb
+\i (00:15:05) zoom in -0.0704 -0.2830
+\i (00:15:05) trapsize 35
+\i (00:15:07) zoom in 1 
+\i (00:15:07) setwindow pcb
+\i (00:15:07) zoom in 0.1640 -0.3910
+\i (00:15:07) trapsize 18
+\i (00:15:07) zoom in 1 
+\i (00:15:07) setwindow pcb
+\i (00:15:07) zoom in 0.1639 -0.3910
+\i (00:15:07) trapsize 9
+\i (00:15:10) pick grid 0.1652 -0.3897
+\t (00:15:10) last pick:  0.0000 -0.6350
+\t (00:15:10) last pick:  0.1650 -0.3897
+\t (00:15:10) Element has no origin, using pick.
+\t (00:15:10) Pick new location for the element(s).
+\i (00:19:44) zoom out 1 
+\i (00:19:44) setwindow pcb
+\i (00:19:44) zoom out 0.1331 -0.3648
+\i (00:19:44) trapsize 18
+\i (00:19:44) zoom out 1 
+\i (00:19:44) setwindow pcb
+\i (00:19:44) zoom out 0.1331 -0.3649
+\i (00:19:44) trapsize 35
+\i (00:19:44) zoom out 1 
+\i (00:19:44) setwindow pcb
+\i (00:19:44) zoom out 0.1331 -0.3648
+\i (00:19:44) trapsize 71
+\i (00:19:44) zoom out 1 
+\i (00:19:44) setwindow pcb
+\i (00:19:44) zoom out 0.1134 -0.3550
+\i (00:19:44) trapsize 141
+\i (00:19:44) zoom out 1 
+\i (00:19:44) setwindow pcb
+\i (00:19:44) zoom out 0.1134 -0.3549
+\i (00:19:44) trapsize 282
+\i (00:19:44) zoom out 1 
+\i (00:19:44) setwindow pcb
+\i (00:19:44) zoom out 0.1134 -0.3549
+\i (00:19:44) trapsize 565
+\i (00:19:47) pick grid 3.0157 -0.5808
+\t (00:19:47) last pick:  2.7050 -0.3897
+\i (00:19:49) exit 
+\e (00:19:49) Do you want to save the changes you made to ANTENNA_PAD.dra?
+\i (00:19:49) updateport SearchPane
+\i (00:19:50) fillin no 
+\t (00:19:50) Lic Summary:
+[20:58:44.468400] Cdslmd servers:C:\Users\garci\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[20:58:44.468632] Feature usage summary:
+
+\t (00:19:50)     Journal end - Thu Feb  5 20:58:44 2026

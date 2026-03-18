@@ -1,0 +1,28 @@
+\t (00:16:02) orcadx 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
+\t (00:16:02)     Journal start - Tue Jan 13 11:50:02 2026
+\t (00:16:02)         Host=PIETRO User=ptsci Pid=11144 CPUs=12
+\t (00:16:02) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
+\t (00:16:02) 
+\d (00:16:02) Design opened: C:/Users/ptsci/AppData/Roaming/SPB_Data/cdssetup/OrCAD_Capture/25.1.0/downloaded_parts/allegropcb/CONN_10118194-0001LF_AMP.dra
+\i (00:16:02) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:16:02) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:16:03) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
+\i (00:16:03) updateport VisibilityPane
+\i (00:16:03) updateport PropPane
+\i (00:16:03) ucpedit 
+\i (00:16:03) updateport VisibilityPane
+\i (00:16:09) save 
+\i (00:16:11) fillin yes 
+\t (00:16:12) Symbol 'conn_10118194-0001lf_amp.psm' created.
+\i (00:16:12) updateport ReportsPane
+\i (00:16:12) updateport SearchPane
+\i (00:16:12) updateport PropPane
+\i (00:16:12) ucpedit 
+\i (00:16:12) updateport VisibilityPane
+\i (00:16:27) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:16:27) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:16:35) opencd_reload C:/ORCAD_LABORATORIES/workspace/projects/echolight_1/allegro/echolight.brd 
+\t (00:16:35) Opening existing design...
+\i (00:16:35) trapsize 83089
+\t (00:16:36) > Sending response DoneOpenBoard
+\t (00:16:36)     Journal end - Tue Jan 13 11:50:35 2026

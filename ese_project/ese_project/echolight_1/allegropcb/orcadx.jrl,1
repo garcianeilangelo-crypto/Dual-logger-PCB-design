@@ -1,0 +1,336 @@
+\t (00:01:02) orcadx 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
+\t (00:01:02)     Journal start - Fri Feb  6 13:02:04 2026
+\t (00:01:02)         Host=MICHAELASUS User=liban Pid=19260 CPUs=20
+\t (00:01:02) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
+\t (00:01:02) 
+\d (00:01:02) Design opened: C:/Users/liban/Desktop/ESE/ESE PROJECT/pietro/new/allegropcb/allegropcb/1042p_key.dra
+\i (00:01:03) trapsize 7992
+\i (00:01:04) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
+\i (00:01:04) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:01:04) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
+\i (00:01:09) trapsize 8133
+\i (00:01:13) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
+\i (00:01:13) QtSignal 0
+\i (00:01:13) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:01:13) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
+\t (00:01:17) Loading consmgr.cxt 
+\t (00:01:17) Loading acns_formula.cxt 
+\i (00:01:17) trapsize 10627
+\i (00:01:17) trapsize 10607
+\i (00:01:20) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:01:20) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:01:20) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:01:20) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:01:20) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:01:20) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:01:20) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:01:21) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
+\i (00:01:22) updateport VisibilityPane
+\i (00:01:22) updateport CMPanelPort
+\i (00:01:22) updateport PropPane
+\i (00:01:22) updateport CVPane
+\i (00:01:22) ucpedit 
+\i (00:01:22) updateport ReportsPane
+\i (00:01:22) updateport SearchPane
+\i (00:01:22) updateport VisibilityPane
+\i (00:01:35) zoom in 1 
+\i (00:01:35) setwindow pcb
+\i (00:01:35) zoom in 1185.313 241.786
+\i (00:01:35) trapsize 5304
+\i (00:01:37) zoom out 1 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom out 1113.186 305.429
+\i (00:01:37) trapsize 10607
+\i (00:01:37) zoom out 1 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom out 1041.057 305.428
+\i (00:01:37) trapsize 22060
+\i (00:01:37) zoom out 1 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom out 962.524 -1251.663
+\i (00:01:37) trapsize 22060
+\i (00:01:38) zoom in 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom in -114.023 -201.589
+\i (00:01:38) trapsize 11030
+\i (00:01:38) zoom in 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom in 1972.890 235.207
+\i (00:01:38) trapsize 5515
+\i (00:01:39) pick grid 1600.069 69.755
+\t (00:01:39) last pick:  1600.069 69.755
+\i (00:01:39) updateport ReportsPane
+\i (00:01:39) updateport SearchPane
+\i (00:01:39) updateport PropPane
+\i (00:01:41) zoom out 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom out 1600.069 69.755
+\i (00:01:41) trapsize 11030
+\i (00:01:41) zoom in 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom in 1600.070 69.755
+\i (00:01:41) trapsize 5515
+\i (00:01:42) pick grid 1600.070 69.755
+\t (00:01:42) last pick:  1600.070 69.755
+\i (00:01:42) updateport ReportsPane
+\i (00:01:42) updateport SearchPane
+\i (00:01:42) updateport PropPane
+\i (00:01:42) pick grid dbl 1600.070 69.755
+\t (00:01:42) last pick:  1600.070 69.755
+\i (00:01:42) updateport ReportsPane
+\i (00:01:42) updateport SearchPane
+\i (00:01:42) updateport PropPane
+\i (00:01:43) prepopup 1600.070 69.755
+\i (00:01:45) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (RX294Y255D0T) Instance (1)' 
+\i (00:01:45) mod padstack 
+\i (00:01:59) ucpedit 
+\i (00:01:59) updateport ReportsPane
+\i (00:01:59) updateport SearchPane
+\i (00:01:59) updateport VisibilityPane
+\i (00:01:59) updateport PropPane
+\i (00:02:00) pick grid 1121.360 316.831
+\t (00:02:00) last pick:  1121.360 316.831
+\i (00:02:00) updateport ReportsPane
+\i (00:02:00) updateport SearchPane
+\i (00:02:00) updateport PropPane
+\i (00:02:00) prepopup 1121.360 316.831
+\i (00:02:01) pick grid 1319.903 475.666
+\t (00:02:01) last pick:  1319.903 475.666
+\i (00:02:01) ucp_shape_edit_mode 
+\i (00:02:01) updateport ReportsPane
+\i (00:02:01) updateport SearchPane
+\i (00:02:01) updateport VisibilityPane
+\i (00:02:01) updateport PropPane
+\i (00:02:01) ucpedit 
+\i (00:02:03) pick grid 2041.278 345.509
+\t (00:02:03) last pick:  2041.278 345.509
+\i (00:02:03) updateport ReportsPane
+\i (00:02:03) updateport SearchPane
+\i (00:02:03) updateport VisibilityPane
+\i (00:02:03) updateport PropPane
+\i (00:02:05) prepopup 1083.857 312.419
+\i (00:02:05) updateport ReportsPane
+\i (00:02:05) updateport SearchPane
+\i (00:02:05) updateport PropPane
+\i (00:02:06) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (EX136Y136D136P) Instance (1)' 
+\i (00:02:06) mod padstack 
+\i (00:02:17) ucpedit 
+\i (00:02:17) updateport ReportsPane
+\i (00:02:17) updateport SearchPane
+\i (00:02:17) updateport VisibilityPane
+\i (00:02:17) updateport PropPane
+\i (00:02:18) zoom out 1 
+\i (00:02:18) setwindow pcb
+\i (00:02:18) zoom out 1339.758 155.790
+\i (00:02:18) trapsize 11030
+\i (00:02:19) roam start
+\i (00:02:19) roam x -2
+\i (00:02:19) roam x -2
+\i (00:02:19) roam y 2
+\i (00:02:19) roam x -12
+\i (00:02:19) roam y 2
+\i (00:02:19) roam x -2
+\i (00:02:19) roam x -36
+\i (00:02:19) roam y 6
+\i (00:02:19) roam x -2
+\i (00:02:19) roam x -36
+\i (00:02:19) roam x -24
+\i (00:02:19) roam x -30
+\i (00:02:19) roam y 2
+\i (00:02:19) roam x -26
+\i (00:02:19) roam x -28
+\i (00:02:19) roam x -26
+\i (00:02:19) roam y 2
+\i (00:02:19) roam x -26
+\i (00:02:19) roam y 2
+\i (00:02:19) roam x -2
+\i (00:02:19) roam x -44
+\i (00:02:19) roam x -18
+\i (00:02:19) roam x -20
+\i (00:02:19) roam x -22
+\i (00:02:19) roam x -20
+\i (00:02:19) roam x -16
+\i (00:02:19) roam x -10
+\i (00:02:19) roam x -4
+\i (00:02:19) roam x -2
+\i (00:02:19) roam x -2
+\i (00:02:19) roam end
+\i (00:02:22) pick grid -1592.069 -25.106
+\t (00:02:22) last pick:  -1592.069 -25.106
+\i (00:02:22) updateport ReportsPane
+\i (00:02:22) updateport SearchPane
+\i (00:02:22) updateport PropPane
+\i (00:02:23) prepopup -1592.069 -25.106
+\i (00:02:25) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (RX294Y255D0T) Instance (1)' 
+\i (00:02:25) mod padstack 
+\i (00:02:29) ucpedit 
+\i (00:02:29) updateport ReportsPane
+\i (00:02:29) updateport SearchPane
+\i (00:02:29) updateport VisibilityPane
+\i (00:02:29) updateport PropPane
+\e (00:02:30) Do you want to save the changes you made to 1042p_key.dra?
+\i (00:02:31) fillin no 
+\i (00:02:31) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:02:31) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:02:49) opencd 'C:/Users/liban/Desktop/ESE/ESE PROJECT/pietro/new/allegropcb/allegropcb/IND_BLM18_0603_MUR.dra' 
+\t (00:02:49) Opening existing design...
+\i (00:02:49) trapsize 12830
+\d (00:02:50) Design opened: C:/Users/liban/Desktop/ESE/ESE PROJECT/pietro/new/allegropcb/allegropcb/IND_BLM18_0603_MUR.dra
+\i (00:02:50) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:02:50) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:02:52) trapsize 1182
+\i (00:02:52) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:02:52) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:02:52) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:02:52) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:02:52) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:02:52) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:02:52) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:02:52) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:02:52) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:02:52) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:02:52) updateport VisibilityPane
+\i (00:02:52) updateport PropPane
+\i (00:02:52) updateport CVPane
+\i (00:02:52) ucpedit 
+\i (00:02:52) updateport VisibilityPane
+\i (00:02:55) roam start
+\i (00:02:55) roam x -2
+\i (00:02:55) roam x -2
+\i (00:02:55) roam x -10
+\i (00:02:55) roam x -16
+\i (00:02:55) roam x -36
+\i (00:02:55) roam x -2
+\i (00:02:55) roam x -116
+\i (00:02:55) roam y 10
+\i (00:02:55) roam x -70
+\i (00:02:55) roam y 6
+\i (00:02:55) roam x -68
+\i (00:02:55) roam y 6
+\i (00:02:55) roam x -6
+\i (00:02:55) roam y 2
+\i (00:02:55) roam x -78
+\i (00:02:55) roam y 6
+\i (00:02:55) roam x -10
+\i (00:02:55) roam y 2
+\i (00:02:55) roam end
+\i (00:02:55) zoom in 1 
+\i (00:02:55) setwindow pcb
+\i (00:02:55) zoom in 25.875 -5.428
+\i (00:02:55) trapsize 591
+\i (00:02:56) pick grid 28.477 -3.299
+\t (00:02:56) last pick:  28.477 -3.299
+\i (00:02:56) updateport ReportsPane
+\i (00:02:56) updateport SearchPane
+\i (00:02:56) updateport PropPane
+\i (00:02:57) prepopup 28.477 -3.299
+\i (00:02:59) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (RX38Y37D0T) Instance (1)' 
+\i (00:02:59) mod padstack 
+\i (00:04:06) updateport ReportsPane
+\i (00:04:06) updateport SearchPane
+\i (00:04:06) updateport PropPane
+\i (00:04:06) ucpedit 
+\i (00:04:06) updateport ReportsPane
+\i (00:04:06) updateport SearchPane
+\i (00:04:06) updateport VisibilityPane
+\i (00:04:06) updateport PropPane
+\i (00:04:07) pick grid -35.142 2.850
+\t (00:04:07) last pick:  -35.142 2.850
+\i (00:04:07) updateport ReportsPane
+\i (00:04:07) updateport SearchPane
+\i (00:04:07) updateport PropPane
+\i (00:04:08) prepopup -35.142 2.850
+\i (00:04:09) pick grid -33.723 6.397
+\t (00:04:09) last pick:  -33.723 6.397
+\i (00:04:09) updateport ReportsPane
+\i (00:04:09) updateport SearchPane
+\i (00:04:09) updateport PropPane
+\i (00:04:09) prepopup -32.067 5.924
+\i (00:04:10) pop dyn_option_select 'Modify design padstack@:@Edit Padstack (RX38Y37D0T) Instance (1)' 
+\i (00:04:10) mod padstack 
+\i (00:04:32) updateport ReportsPane
+\i (00:04:32) updateport SearchPane
+\i (00:04:32) updateport PropPane
+\i (00:04:32) ucpedit 
+\i (00:04:32) updateport ReportsPane
+\i (00:04:32) updateport SearchPane
+\i (00:04:32) updateport VisibilityPane
+\i (00:04:32) updateport PropPane
+\i (00:04:32) pick grid 75.540 34.304
+\t (00:04:32) last pick:  75.540 34.304
+\i (00:04:34) save 
+\i (00:04:35) fillin yes 
+\t (00:04:36) Symbol 'ind_blm18_0603_mur.psm' created.
+\i (00:04:36) updateport ReportsPane
+\i (00:04:36) updateport SearchPane
+\i (00:04:36) updateport PropPane
+\i (00:04:36) ucpedit 
+\i (00:04:36) updateport VisibilityPane
+\i (00:04:41) pick grid -5.343 39.744
+\t (00:04:41) last pick:  -5.343 39.744
+\i (00:04:50) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:04:50) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:05:17) opencd 'C:/Users/liban/Desktop/ESE/ESE PROJECT/pietro/new/allegropcb/allegropcb/CONN_10118192-0001LF_AMP.dra' 
+\t (00:05:17) Opening existing design...
+\i (00:05:17) trapsize 63721
+\d (00:05:18) Design opened: C:/Users/liban/Desktop/ESE/ESE PROJECT/pietro/new/allegropcb/allegropcb/CONN_10118192-0001LF_AMP.dra
+\i (00:05:19) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:05:19) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:05:20) trapsize 5873
+\i (00:05:20) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:05:20) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:05:20) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:05:20) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:05:20) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:05:20) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:05:20) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:05:20) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:05:20) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:05:20) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:05:20) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
+\i (00:05:20) updateport VisibilityPane
+\i (00:05:20) updateport PropPane
+\i (00:05:20) updateport CVPane
+\i (00:05:21) ucpedit 
+\i (00:05:21) updateport VisibilityPane
+\i (00:05:22) zoom in 1 
+\i (00:05:22) setwindow pcb
+\i (00:05:22) zoom in 1.718 23.849
+\i (00:05:22) trapsize 2936
+\i (00:05:22) zoom in 1 
+\i (00:05:22) setwindow pcb
+\i (00:05:22) zoom in 1.718 23.849
+\i (00:05:22) trapsize 1468
+\i (00:05:23) zoom out 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 1.719 23.849
+\i (00:05:23) trapsize 2936
+\i (00:05:24) roam start
+\i (00:05:24) roam x 2
+\i (00:05:24) roam x 2
+\i (00:05:24) roam x 2
+\i (00:05:24) roam x 6
+\i (00:05:24) roam x 8
+\i (00:05:24) roam x 12
+\i (00:05:24) roam x 14
+\i (00:05:24) roam x 18
+\i (00:05:24) roam x 20
+\i (00:05:24) roam x 18
+\i (00:05:24) roam x 18
+\i (00:05:24) roam y 2
+\i (00:05:24) roam x 12
+\i (00:05:24) roam x 10
+\i (00:05:24) roam y 2
+\i (00:05:24) roam x 6
+\i (00:05:24) roam x 4
+\i (00:05:24) roam x 2
+\i (00:05:24) roam end
+\i (00:06:09) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:06:09) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:06:12) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:06:12) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:06:12) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:06:12) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:06:12) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:06:12) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\t (00:06:17)     Journal end - Fri Feb  6 13:07:19 2026

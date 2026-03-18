@@ -1,0 +1,152 @@
+A!NET_NAME!REFDES!PIN_NUMBER!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!PIN_NET_SHORT!PIN_NO_SWAP_PIN!PIN_NO_PIN_ESCAPE!PIN_CDS_PINID!PIN_XNET_PINS!PIN_PIN_ESCAPE!PIN_PIN_SIGNAL_MODEL!PIN_NO_DRC!PIN_NO_SHAPE_CONNECT!
+J!C:/Users/garci/OneDrive/Desktop/echolight_5_2 2/echolight_5_2/echolight_1/allegro/echolight.brd!Sat Feb  7 09:10:18 2026!0.0000!0.0000!533.4000!431.8000!0.0001!millimeters!ECHOLIGHT!48.661417 mil!2!UP TO DATE!
+S!N64169!ANT1!1!@echolight.echolight(sch_1):ins27084@rfant3216120a5t.\rfant3216120a5t.normal\(chips)!RFANT3216120A5T_ANTC3216X130N_RFANT3216120A5T!!!F47!!!!!!!!!!
+S!!ANT1!2!@echolight.echolight(sch_1):ins27084@rfant3216120a5t.\rfant3216120a5t.normal\(chips)!RFANT3216120A5T_ANTC3216X130N_RFANT3216120A5T!!!F47!!!!!!!!!!
+S!N01506!C1!1!@echolight.echolight(sch_1):ins57003@echolight.\c0603c104k5ractu_0.normal\(sch_1)!C0603C104K5RACTU_0_CAPC17595_95N_KEM_0.1 UF!!!F45!!!!!!!!!!
+S!VCC_BAR!C1!2!@echolight.echolight(sch_1):ins57003@echolight.\c0603c104k5ractu_0.normal\(sch_1)!C0603C104K5RACTU_0_CAPC17595_95N_KEM_0.1 UF!!!F45!!!!!!!!!!
+S!0!C10!1!@echolight.echolight(sch_1):ins24767@\0603yc104kaz2a\.\0603yc104kaz2a.normal\(chips)!0603YC104KAZ2A_CAPC1608X90N_100 NF!!!F44!!!!!!!!!!
+S!VDDS!C10!2!@echolight.echolight(sch_1):ins24767@\0603yc104kaz2a\.\0603yc104kaz2a.normal\(chips)!0603YC104KAZ2A_CAPC1608X90N_100 NF!!!F44!!!!!!!!!!
+S!VDDR!C5!1!@echolight.echolight(sch_1):ins26022@\0603yc104kaz2a\.\0603yc104kaz2a.normal\(chips)!0603YC104KAZ2A_CAPC1608X90N_100 NF!!!F43!!!!!!!!!!
+S!0!C5!2!@echolight.echolight(sch_1):ins26022@\0603yc104kaz2a\.\0603yc104kaz2a.normal\(chips)!0603YC104KAZ2A_CAPC1608X90N_100 NF!!!F43!!!!!!!!!!
+S!VDDR!C6!1!@echolight.echolight(sch_1):ins25946@\0603yc104kaz2a\.\0603yc104kaz2a.normal\(chips)!0603YC104KAZ2A_CAPC1608X90N_100 NF!!!F42!!!!!!!!!!
+S!0!C6!2!@echolight.echolight(sch_1):ins25946@\0603yc104kaz2a\.\0603yc104kaz2a.normal\(chips)!0603YC104KAZ2A_CAPC1608X90N_100 NF!!!F42!!!!!!!!!!
+S!VDDS!C7!1!@echolight.echolight(sch_1):ins24719@\0603yc104kaz2a\.\0603yc104kaz2a.normal\(chips)!0603YC104KAZ2A_CAPC1608X90N_100 NF!!!F41!!!!!!!!!!
+S!0!C7!2!@echolight.echolight(sch_1):ins24719@\0603yc104kaz2a\.\0603yc104kaz2a.normal\(chips)!0603YC104KAZ2A_CAPC1608X90N_100 NF!!!F41!!!!!!!!!!
+S!0!C8!1!@echolight.echolight(sch_1):ins24735@\0603yc104kaz2a\.\0603yc104kaz2a.normal\(chips)!0603YC104KAZ2A_CAPC1608X90N_100 NF!!!F40!!!!!!!!!!
+S!VDDS!C8!2!@echolight.echolight(sch_1):ins24735@\0603yc104kaz2a\.\0603yc104kaz2a.normal\(chips)!0603YC104KAZ2A_CAPC1608X90N_100 NF!!!F40!!!!!!!!!!
+S!RF_N!C12!1!@echolight.echolight(sch_1):ins19962@grm1555c1h102ja01d.\grm1555c1h102ja01d.normal\(chips)!GRM1555C1H102JA01D_CAPC1005X55N_1 PF!!!F38!!!!!!!!!!
+S!N17941!C12!2!@echolight.echolight(sch_1):ins19962@grm1555c1h102ja01d.\grm1555c1h102ja01d.normal\(chips)!GRM1555C1H102JA01D_CAPC1005X55N_1 PF!!!F38!!!!!!!!!!
+S!0!C13!1!@echolight.echolight(sch_1):ins20111@gjm1555c1h1r0wb01d.\gjm1555c1h1r0wb01d.normal\(chips)!GJM1555C1H1R0WB01D_CAPC1005X55N_1 PF!!!F37!!!!!!!!!!
+S!N27067!C13!2!@echolight.echolight(sch_1):ins20111@gjm1555c1h1r0wb01d.\gjm1555c1h1r0wb01d.normal\(chips)!GJM1555C1H1R0WB01D_CAPC1005X55N_1 PF!!!F37!!!!!!!!!!
+S!0!C14!1!@echolight.echolight(sch_1):ins20279@gjm1555c1h1r0wb01d.\gjm1555c1h1r0wb01d.normal\(chips)!GJM1555C1H1R0WB01D_CAPC1005X55N_1 PF!!!F36!!!!!!!!!!
+S!RF_P!C14!2!@echolight.echolight(sch_1):ins20279@gjm1555c1h1r0wb01d.\gjm1555c1h1r0wb01d.normal\(chips)!GJM1555C1H1R0WB01D_CAPC1005X55N_1 PF!!!F36!!!!!!!!!!
+S!0!C15!1!@echolight.echolight(sch_1):ins70384@echolight.\jmk105bj105kv-f_0.normal\(sch_1)!JMK105BJ105KV-F_0_CAP_UMK105CG080CV-F_TAY_1 UF!!!F35!!!!!!!!!!
+S!N18125!C15!2!@echolight.echolight(sch_1):ins70384@echolight.\jmk105bj105kv-f_0.normal\(sch_1)!JMK105BJ105KV-F_0_CAP_UMK105CG080CV-F_TAY_1 UF!!!F35!!!!!!!!!!
+S!0!C16!1!@echolight.echolight(sch_1):ins20352@c0402c120c5gactu.\c0402c120c5gactu.normal\(chips)!C0402C120C5GACTU_CAPC1005X55N_12 PF!!!F34!!!!!!!!!!
+S!N18225!C16!2!@echolight.echolight(sch_1):ins20352@c0402c120c5gactu.\c0402c120c5gactu.normal\(chips)!C0402C120C5GACTU_CAPC1005X55N_12 PF!!!F34!!!!!!!!!!
+S!0!C17!1!@echolight.echolight(sch_1):ins20336@c0402c120c5gactu.\c0402c120c5gactu.normal\(chips)!C0402C120C5GACTU_CAPC1005X55N_12 PF!!!F33!!!!!!!!!!
+S!N18233!C17!2!@echolight.echolight(sch_1):ins20336@c0402c120c5gactu.\c0402c120c5gactu.normal\(chips)!C0402C120C5GACTU_CAPC1005X55N_12 PF!!!F33!!!!!!!!!!
+S!0!C18!1!@echolight.echolight(sch_1):ins90@echolight.\cl05b104kp5vpnc_0.normal\(sch_1)!CL05B104KP5VPNC_0_CAP_0402_SAM_100 NF!!!F32!!!!!!!!!!
+S!VCC_BAR!C18!2!@echolight.echolight(sch_1):ins90@echolight.\cl05b104kp5vpnc_0.normal\(sch_1)!CL05B104KP5VPNC_0_CAP_0402_SAM_100 NF!!!F32!!!!!!!!!!
+S!0!C2!1!@echolight.echolight(sch_1):ins2402@echolight.\jmk105bj105kv-f_2.normal\(sch_1)!JMK105BJ105KV-F_2_CAP_UMK105CG080CV-F_TAY_1 UF!!!F31!!!!!!!!!!
+S!VCC_BAR!C2!2!@echolight.echolight(sch_1):ins2402@echolight.\jmk105bj105kv-f_2.normal\(sch_1)!JMK105BJ105KV-F_2_CAP_UMK105CG080CV-F_TAY_1 UF!!!F31!!!!!!!!!!
+S!0!C3!1!@echolight.echolight(sch_1):ins2418@echolight.\jmk105bj105kv-f_2.normal\(sch_1)!JMK105BJ105KV-F_2_CAP_UMK105CG080CV-F_TAY_1 UF!!!F30!!!!!!!!!!
+S!N02182!C3!2!@echolight.echolight(sch_1):ins2418@echolight.\jmk105bj105kv-f_2.normal\(sch_1)!JMK105BJ105KV-F_2_CAP_UMK105CG080CV-F_TAY_1 UF!!!F30!!!!!!!!!!
+S!0!C4!1!@echolight.echolight(sch_1):ins76212@echolight.\jmk105bj105kv-f_1.normal\(sch_1)!JMK105BJ105KV-F_1_CAP_UMK105CG080CV-F_TAY_10 UF!!!F29!!!!!!!!!!
+S!VDDR!C4!2!@echolight.echolight(sch_1):ins76212@echolight.\jmk105bj105kv-f_1.normal\(sch_1)!JMK105BJ105KV-F_1_CAP_UMK105CG080CV-F_TAY_10 UF!!!F29!!!!!!!!!!
+S!0!C9!1!@echolight.echolight(sch_1):ins76228@echolight.\jmk105bj105kv-f_1.normal\(sch_1)!JMK105BJ105KV-F_1_CAP_UMK105CG080CV-F_TAY_10 UF!!!F28!!!!!!!!!!
+S!VDDS!C9!2!@echolight.echolight(sch_1):ins76228@echolight.\jmk105bj105kv-f_1.normal\(sch_1)!JMK105BJ105KV-F_1_CAP_UMK105CG080CV-F_TAY_10 UF!!!F28!!!!!!!!!!
+S!VDDS!FL1!1!@echolight.echolight(sch_1):ins53582@\490-5213-1-nd\.\blm18bd221sn1d.normal\(sch_1)!BLM18BD221SN1D_IND_BLM18_0603_MUR_IND!!!F27!!!!!!!!!!
+S!VCC_BAR!FL1!2!@echolight.echolight(sch_1):ins53582@\490-5213-1-nd\.\blm18bd221sn1d.normal\(sch_1)!BLM18BD221SN1D_IND_BLM18_0603_MUR_IND!!!F27!!!!!!!!!!
+S!0!J1!1!@echolight.echolight(sch_1):ins61797@\609-4613-2-nd\.\10118192-0001lf.normal\(sch_1)!10118192-0001LF_CONN_10118192-0001LF_AMP_CONN_005P_000C_1!!!F26!!!!!!!!!!
+S!!J1!2!@echolight.echolight(sch_1):ins61797@\609-4613-2-nd\.\10118192-0001lf.normal\(sch_1)!10118192-0001LF_CONN_10118192-0001LF_AMP_CONN_005P_000C_1!!!F26!!!!!!!!!!
+S!!J1!3!@echolight.echolight(sch_1):ins61797@\609-4613-2-nd\.\10118192-0001lf.normal\(sch_1)!10118192-0001LF_CONN_10118192-0001LF_AMP_CONN_005P_000C_1!!!F26!!!!!!!!!!
+S!!J1!4!@echolight.echolight(sch_1):ins61797@\609-4613-2-nd\.\10118192-0001lf.normal\(sch_1)!10118192-0001LF_CONN_10118192-0001LF_AMP_CONN_005P_000C_1!!!F26!!!!!!!!!!
+S!N61840!J1!5!@echolight.echolight(sch_1):ins61797@\609-4613-2-nd\.\10118192-0001lf.normal\(sch_1)!10118192-0001LF_CONN_10118192-0001LF_AMP_CONN_005P_000C_1!!!F26!!!!!!!!!!
+S!N34999!J2!1!@echolight.echolight(sch_1):ins28028@\m20-9990246\.\m20-9990246.normal\(chips)!M20-9990246_HARWIN_M20-9990246_M20-9990246!!!F25!!!!!!!!!!
+S!N35006!J2!2!@echolight.echolight(sch_1):ins28028@\m20-9990246\.\m20-9990246.normal\(chips)!M20-9990246_HARWIN_M20-9990246_M20-9990246!!!F25!!!!!!!!!!
+S!VDDR!L1!1!@echolight.echolight(sch_1):ins72623@\445-175588-2-nd\.\mlz1608m100wtd25.normal\(sch_1)!MLZ1608M100WTD25_IND_1608_TDK_10 UH!!!F24!!!!!!!!!!
+S!DCDC_SW!L1!2!@echolight.echolight(sch_1):ins72623@\445-175588-2-nd\.\mlz1608m100wtd25.normal\(sch_1)!MLZ1608M100WTD25_IND_1608_TDK_10 UH!!!F24!!!!!!!!!!
+S!RX_TX!L2!1!@echolight.echolight(sch_1):ins76153@\490-8389-2-nd\.\lqg15hs2n4s02d.normal\(sch_1)!LQG15HS2N4S02D_IND_LQG15XXXX02X_MUR_2.4 NH!!!F23!!!!!!!!!!
+S!RF_N!L2!2!@echolight.echolight(sch_1):ins76153@\490-8389-2-nd\.\lqg15hs2n4s02d.normal\(sch_1)!LQG15HS2N4S02D_IND_LQG15XXXX02X_MUR_2.4 NH!!!F23!!!!!!!!!!
+S!RF_P!L3!1!@echolight.echolight(sch_1):ins21134@echolight.\mlg1005s6n2st000_0.normal\(chips)!MLG1005S6N2ST000_0_INDC1005X55N_6.2 NH!!!F22!!!!!!!!!!
+S!RF_N!L3!2!@echolight.echolight(sch_1):ins21134@echolight.\mlg1005s6n2st000_0.normal\(chips)!MLG1005S6N2ST000_0_INDC1005X55N_6.2 NH!!!F22!!!!!!!!!!
+S!N17941!L4!1!@echolight.echolight(sch_1):ins21332@echolight.\lqp03hq2n0b02d_0.normal\(chips)!LQP03HQ2N0B02D_0_IND_LQP03HQ2N0B02D_2 NH!!!F21!!!!!!!!!!
+S!N27067!L4!2!@echolight.echolight(sch_1):ins21332@echolight.\lqp03hq2n0b02d_0.normal\(chips)!LQP03HQ2N0B02D_0_IND_LQP03HQ2N0B02D_2 NH!!!F21!!!!!!!!!!
+S!N27067!L5!1!@echolight.echolight(sch_1):ins21400@echolight.\lqp03hq2n0b02d_1.normal\(chips)!LQP03HQ2N0B02D_1_IND_LQP03HQ2N0B02D_2 NH!!!F20!!!!!!!!!!
+S!N64169!L5!2!@echolight.echolight(sch_1):ins21400@echolight.\lqp03hq2n0b02d_1.normal\(chips)!LQP03HQ2N0B02D_1_IND_LQP03HQ2N0B02D_2 NH!!!F20!!!!!!!!!!
+S!RF_P!L6!1!@echolight.echolight(sch_1):ins21076@echolight.\lqg18hn2n7s00d_0.normal\(chips)!LQG18HN2N7S00D_0_INDC1608X95N_2.7 NH!!!F19!!!!!!!!!!
+S!N17941!L6!2!@echolight.echolight(sch_1):ins21076@echolight.\lqg18hn2n7s00d_0.normal\(chips)!LQG18HN2N7S00D_0_INDC1608X95N_2.7 NH!!!F19!!!!!!!!!!
+S!VCC_BAR!LED1!1!@echolight.echolight(sch_1):ins37732@xzcmecbddgk53w.\xzcmecbddgk53w.normal\(chips)!XZCMECBDDGK53W_XZCMECBDDGK53W_XZCMECBDDGK53W!!!F18!!!!!!!!!!
+S!N82128!LED1!3!@echolight.echolight(sch_1):ins37732@xzcmecbddgk53w.\xzcmecbddgk53w.normal\(chips)!XZCMECBDDGK53W_XZCMECBDDGK53W_XZCMECBDDGK53W!!!F18!!!!!!!!!!
+S!N82086!LED1!4!@echolight.echolight(sch_1):ins37732@xzcmecbddgk53w.\xzcmecbddgk53w.normal\(chips)!XZCMECBDDGK53W_XZCMECBDDGK53W_XZCMECBDDGK53W!!!F18!!!!!!!!!!
+S!N37835!LED1!2!@echolight.echolight(sch_1):ins37732@xzcmecbddgk53w.\xzcmecbddgk53w.normal\(chips)!XZCMECBDDGK53W_XZCMECBDDGK53W_XZCMECBDDGK53W!!!F18!!!!!!!!!!
+S!0!MIC1!3!@echolight.echolight(sch_1):ins1288@echolight.\ics-43434_3.normal\(sch_1)!ICS-43434_3_LGA_CAV_IVS_ICS-43434!!!F17!!!!!!!!!!
+S!0!MIC1!2!@echolight.echolight(sch_1):ins1288@echolight.\ics-43434_3.normal\(sch_1)!ICS-43434_3_LGA_CAV_IVS_ICS-43434!!!F17!!!!!!!!!!
+S!ACOUSTIC_SCK!MIC1!4!@echolight.echolight(sch_1):ins1288@echolight.\ics-43434_3.normal\(sch_1)!ICS-43434_3_LGA_CAV_IVS_ICS-43434!!!F17!!!!!!!!!!
+S!ACOUSTIC_SD!MIC1!6!@echolight.echolight(sch_1):ins1288@echolight.\ics-43434_3.normal\(sch_1)!ICS-43434_3_LGA_CAV_IVS_ICS-43434!!!F17!!!!!!!!!!
+S!N01506!MIC1!5!@echolight.echolight(sch_1):ins1288@echolight.\ics-43434_3.normal\(sch_1)!ICS-43434_3_LGA_CAV_IVS_ICS-43434!!!F17!!!!!!!!!!
+S!ACOUSTIC_WS!MIC1!1!@echolight.echolight(sch_1):ins1288@echolight.\ics-43434_3.normal\(sch_1)!ICS-43434_3_LGA_CAV_IVS_ICS-43434!!!F17!!!!!!!!!!
+S!VCC_BAR!R1!1!@echolight.echolight(sch_1):ins2248@\p150kdbtr-nd\.\era-3aeb154v.normal\(sch_1)!ERA-3AEB154V_RC0603N_PAN_150 KOHM!!!F16!!!!!!!!!!
+S!N02224!R1!2!@echolight.echolight(sch_1):ins2248@\p150kdbtr-nd\.\era-3aeb154v.normal\(sch_1)!ERA-3AEB154V_RC0603N_PAN_150 KOHM!!!F16!!!!!!!!!!
+S!N02224!R2!1!@echolight.echolight(sch_1):ins2350@\311-680kcrct-nd\.\rc0805fr-07680kl.normal\(sch_1)!RC0805FR-07680KL_RC0805N_YAG_680 KOHM!!!F15!!!!!!!!!!
+S!0!R2!2!@echolight.echolight(sch_1):ins2350@\311-680kcrct-nd\.\rc0805fr-07680kl.normal\(sch_1)!RC0805FR-07680KL_RC0805N_YAG_680 KOHM!!!F15!!!!!!!!!!
+S!LED2!R3!1!@echolight.echolight(sch_1):ins1806@\p180jtr-nd\.\erj-2gej181x.normal\(sch_1)!ERJ-2GEJ181X_RC0402N_PAN_180 OHM!!!F14!!!!!!!!!!
+S!N82086!R3!2!@echolight.echolight(sch_1):ins1806@\p180jtr-nd\.\erj-2gej181x.normal\(sch_1)!ERJ-2GEJ181X_RC0402N_PAN_180 OHM!!!F14!!!!!!!!!!
+S!LED3!R4!1!@echolight.echolight(sch_1):ins1790@\p180jtr-nd\.\erj-2gej181x.normal\(sch_1)!ERJ-2GEJ181X_RC0402N_PAN_180 OHM!!!F13!!!!!!!!!!
+S!N82128!R4!2!@echolight.echolight(sch_1):ins1790@\p180jtr-nd\.\erj-2gej181x.normal\(sch_1)!ERJ-2GEJ181X_RC0402N_PAN_180 OHM!!!F13!!!!!!!!!!
+S!N37835!R5!1!@echolight.echolight(sch_1):ins1835@\rmcf1206jt560rdkr-nd\.\rmcf1206jt560r.normal\(sch_1)!RMCF1206JT560R_STA_RMCF1206_STP_560 OHM!!!F12!!!!!!!!!!
+S!LED1!R5!2!@echolight.echolight(sch_1):ins1835@\rmcf1206jt560rdkr-nd\.\rmcf1206jt560r.normal\(sch_1)!RMCF1206JT560R_STA_RMCF1206_STP_560 OHM!!!F12!!!!!!!!!!
+S!OPTICAL_SCL!R6!1!@echolight.echolight(sch_1):ins226@\311-10kjrtr-nd\.\rc0402jr-0710kl.normal\(sch_1)!RC0402JR-0710KL_RES_RC_L_RC0402_YAG_10 KOHM!!!F11!!!!!!!!!!
+S!VCC_BAR!R6!2!@echolight.echolight(sch_1):ins226@\311-10kjrtr-nd\.\rc0402jr-0710kl.normal\(sch_1)!RC0402JR-0710KL_RES_RC_L_RC0402_YAG_10 KOHM!!!F11!!!!!!!!!!
+S!OPTICAL_SDA!R7!1!@echolight.echolight(sch_1):ins258@\311-10kjrtr-nd\.\rc0402jr-0710kl.normal\(sch_1)!RC0402JR-0710KL_RES_RC_L_RC0402_YAG_10 KOHM!!!F10!!!!!!!!!!
+S!VCC_BAR!R7!2!@echolight.echolight(sch_1):ins258@\311-10kjrtr-nd\.\rc0402jr-0710kl.normal\(sch_1)!RC0402JR-0710KL_RES_RC_L_RC0402_YAG_10 KOHM!!!F10!!!!!!!!!!
+S!OPTICAL_INT!R8!1!@echolight.echolight(sch_1):ins546@\311-10kjrtr-nd\.\rc0402jr-0710kl.normal\(sch_1)!RC0402JR-0710KL_RES_RC_L_RC0402_YAG_10 KOHM!!!F9!!!!!!!!!!
+S!VCC_BAR!R8!2!@echolight.echolight(sch_1):ins546@\311-10kjrtr-nd\.\rc0402jr-0710kl.normal\(sch_1)!RC0402JR-0710KL_RES_RC_L_RC0402_YAG_10 KOHM!!!F9!!!!!!!!!!
+S!0!R9!1!@echolight.echolight(sch_1):ins2009@\311-10.0khrtr-nd\.\rc0603fr-0710kl.normal\(sch_1)!RC0603FR-0710KL_RC0603N_YAG_100 KOHM!!!F8!!!!!!!!!!
+S!RESET_BUTTON!R9!2!@echolight.echolight(sch_1):ins2009@\311-10.0khrtr-nd\.\rc0603fr-0710kl.normal\(sch_1)!RC0603FR-0710KL_RC0603N_YAG_100 KOHM!!!F8!!!!!!!!!!
+S!!U1!3!@echolight.echolight(sch_1):ins3976@echolight.\max1555ezkt_0.normal\(sch_1)!MAX1555EZKT_0_21-0113C_MXM-M_MAX1555EZKT!!!F6!!!!!!!!!!
+S!V_BAT!U1!5!@echolight.echolight(sch_1):ins3976@echolight.\max1555ezkt_0.normal\(sch_1)!MAX1555EZKT_0_21-0113C_MXM-M_MAX1555EZKT!!!F6!!!!!!!!!!
+S!0!U1!4!@echolight.echolight(sch_1):ins3976@echolight.\max1555ezkt_0.normal\(sch_1)!MAX1555EZKT_0_21-0113C_MXM-M_MAX1555EZKT!!!F6!!!!!!!!!!
+S!0!U1!2!@echolight.echolight(sch_1):ins3976@echolight.\max1555ezkt_0.normal\(sch_1)!MAX1555EZKT_0_21-0113C_MXM-M_MAX1555EZKT!!!F6!!!!!!!!!!
+S!N61840!U1!1!@echolight.echolight(sch_1):ins3976@echolight.\max1555ezkt_0.normal\(sch_1)!MAX1555EZKT_0_21-0113C_MXM-M_MAX1555EZKT!!!F6!!!!!!!!!!
+S!N02182!U2!3!@echolight.echolight(sch_1):ins2104@echolight.\tlv75801pdbvr_3.normal\(sch_1)!TLV75801PDBVR_3_SOT-23-5_DBV0005A_TEX_TLV75801PDBVR!!!F5!!!!!!!!!!
+S!N02224!U2!4!@echolight.echolight(sch_1):ins2104@echolight.\tlv75801pdbvr_3.normal\(sch_1)!TLV75801PDBVR_3_SOT-23-5_DBV0005A_TEX_TLV75801PDBVR!!!F5!!!!!!!!!!
+S!0!U2!2!@echolight.echolight(sch_1):ins2104@echolight.\tlv75801pdbvr_3.normal\(sch_1)!TLV75801PDBVR_3_SOT-23-5_DBV0005A_TEX_TLV75801PDBVR!!!F5!!!!!!!!!!
+S!N02182!U2!1!@echolight.echolight(sch_1):ins2104@echolight.\tlv75801pdbvr_3.normal\(sch_1)!TLV75801PDBVR_3_SOT-23-5_DBV0005A_TEX_TLV75801PDBVR!!!F5!!!!!!!!!!
+S!VCC_BAR!U2!5!@echolight.echolight(sch_1):ins2104@echolight.\tlv75801pdbvr_3.normal\(sch_1)!TLV75801PDBVR_3_SOT-23-5_DBV0005A_TEX_TLV75801PDBVR!!!F5!!!!!!!!!!
+S!DCDC_SW!U3!17!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!N18125!U3!12!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!OPTICAL_ADDR!U3!6!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!OPTICAL_SDA!U3!7!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!LED3!U3!23!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!0!U3!24!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!0!U3!25!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!0!U3!26!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!0!U3!27!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!OPTICAL_INT!U3!8!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!OPTICAL_SCL!U3!9!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!ACOUSTIC_SCK!U3!10!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!ACOUSTIC_WS!U3!15!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!ACOUSTIC_SD!U3!16!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!0!U3!20!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!LED1!U3!21!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!LED2!U3!22!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!N35006!U3!14!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!N34999!U3!13!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!RESET_BUTTON!U3!19!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!RF_N!U3!2!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!RF_P!U3!1!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!RX_TX!U3!3!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!VDDR!U3!29!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!VDDR!U3!32!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!VDDS!U3!28!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!VDDS!U3!11!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!VDDS!U3!18!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!0!U3!33!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!N23447!U3!30!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!N20691!U3!31!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!N18233!U3!4!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!N18225!U3!5!@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)!CC2640R2FRHBT_9_RHB0032E_CC2640R2FRHB!!!F4!!!!!!!!!!
+S!OPTICAL_ADDR!U4!2!@echolight.echolight(sch_1):ins42@echolight.\opt3001dnpr_9.normal\(sch_1)!OPT3001DNPR_9_DNP0006A_OPT3001DNP!!!F3!!!!!!!!!!
+S!0!U4!3!@echolight.echolight(sch_1):ins42@echolight.\opt3001dnpr_9.normal\(sch_1)!OPT3001DNPR_9_DNP0006A_OPT3001DNP!!!F3!!!!!!!!!!
+S!OPTICAL_INT!U4!5!@echolight.echolight(sch_1):ins42@echolight.\opt3001dnpr_9.normal\(sch_1)!OPT3001DNPR_9_DNP0006A_OPT3001DNP!!!F3!!!!!!!!!!
+S!0!U4!7!@echolight.echolight(sch_1):ins42@echolight.\opt3001dnpr_9.normal\(sch_1)!OPT3001DNPR_9_DNP0006A_OPT3001DNP!!!F3!!!!!!!!!!
+S!OPTICAL_SCL!U4!4!@echolight.echolight(sch_1):ins42@echolight.\opt3001dnpr_9.normal\(sch_1)!OPT3001DNPR_9_DNP0006A_OPT3001DNP!!!F3!!!!!!!!!!
+S!OPTICAL_SDA!U4!6!@echolight.echolight(sch_1):ins42@echolight.\opt3001dnpr_9.normal\(sch_1)!OPT3001DNPR_9_DNP0006A_OPT3001DNP!!!F3!!!!!!!!!!
+S!VCC_BAR!U4!1!@echolight.echolight(sch_1):ins42@echolight.\opt3001dnpr_9.normal\(sch_1)!OPT3001DNPR_9_DNP0006A_OPT3001DNP!!!F3!!!!!!!!!!
+S!VCC_BAR!U5!1!@echolight.echolight(sch_1):ins3531@echolight.\gpts203211b_1.normal\(sch_1)!GPTS203211B_1_SWITCH_03211B_SWITCH_03211B!!!F2!!!!!!!!!!
+S!RESET_BUTTON!U5!2!@echolight.echolight(sch_1):ins3531@echolight.\gpts203211b_1.normal\(sch_1)!GPTS203211B_1_SWITCH_03211B_SWITCH_03211B!!!F2!!!!!!!!!!
+S!N23447!Y1!1!@echolight.echolight(sch_1):ins20642@\tsx-3225240000mf15x-ac3\.\tsx-3225240000mf15x-ac3.normal\(chips)!TSX-3225240000MF15X-AC3_OSCCC320X250X60_24 MHZ!!!F1!!!!!!!!!!
+S!0!Y1!2!@echolight.echolight(sch_1):ins20642@\tsx-3225240000mf15x-ac3\.\tsx-3225240000mf15x-ac3.normal\(chips)!TSX-3225240000MF15X-AC3_OSCCC320X250X60_24 MHZ!!!F1!!!!!!!!!!
+S!N20691!Y1!3!@echolight.echolight(sch_1):ins20642@\tsx-3225240000mf15x-ac3\.\tsx-3225240000mf15x-ac3.normal\(chips)!TSX-3225240000MF15X-AC3_OSCCC320X250X60_24 MHZ!!!F1!!!!!!!!!!
+S!0!Y1!4!@echolight.echolight(sch_1):ins20642@\tsx-3225240000mf15x-ac3\.\tsx-3225240000mf15x-ac3.normal\(chips)!TSX-3225240000MF15X-AC3_OSCCC320X250X60_24 MHZ!!!F1!!!!!!!!!!
+S!N18225!Y2!1!@echolight.echolight(sch_1):ins20568@echolight.\abs07-32768khz-t_0.normal\(chips)!ABS07-32768KHZ-T_0_XTAL_ABS07-32768KHZ-T_32768!!!F0!!!!!!!!!!
+S!N18233!Y2!2!@echolight.echolight(sch_1):ins20568@echolight.\abs07-32768khz-t_0.normal\(chips)!ABS07-32768KHZ-T_0_XTAL_ABS07-32768KHZ-T_32768!!!F0!!!!!!!!!!
+S!0!C11!1!@echolight.echolight(sch_1):ins20015@echolight.\c_0.normal\(chips)!C_0_WCAP-CSGP_0402_6.8 PF!!!F39!!!!!!!!!!
+S!RX_TX!C11!2!@echolight.echolight(sch_1):ins20015@echolight.\c_0.normal\(chips)!C_0_WCAP-CSGP_0402_6.8 PF!!!F39!!!!!!!!!!
+S!V_BAT!B1!1!@echolight.echolight(sch_1):ins4221@\36-1042p-nd\.\1042p.normal\(sch_1)!1042P_1042P_KEY_BAT!!!F46!!!!!!!!!!
+S!0!B1!2!@echolight.echolight(sch_1):ins4221@\36-1042p-nd\.\1042p.normal\(sch_1)!1042P_1042P_KEY_BAT!!!F46!!!!!!!!!!
+S!N02182!SW1!1!@echolight.echolight(sch_1):ins2607@\eg1903-nd\.\eg1218.normal\(sch_1)!EG1218_SW_1218_EWI_SW3!!!F7!!!!!!!!!!
+S!0!SW1!2!@echolight.echolight(sch_1):ins2607@\eg1903-nd\.\eg1218.normal\(sch_1)!EG1218_SW_1218_EWI_SW3!!!F7!!!!!!!!!!
+S!V_BAT!SW1!3!@echolight.echolight(sch_1):ins2607@\eg1903-nd\.\eg1218.normal\(sch_1)!EG1218_SW_1218_EWI_SW3!!!F7!!!!!!!!!!

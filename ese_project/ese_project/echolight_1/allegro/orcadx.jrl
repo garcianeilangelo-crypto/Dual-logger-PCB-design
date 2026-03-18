@@ -1,0 +1,87 @@
+\t (00:00:42) orcadx 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
+\t (00:00:42)     Journal start - Sat Feb  7 17:50:10 2026
+\t (00:00:42)         Host=PIETRO User=ptsci Pid=21412 CPUs=12
+\t (00:00:42) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
+\t (00:00:42) 
+\d (00:00:42) Design opened: C:/ORCAD_LABORATORIES/workspace/projects/echolight_7_2/echolight_1/allegro/echolight2.brd
+\i (00:00:42) trapsize 337
+\i (00:00:43) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
+\i (00:00:43) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:43) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
+\i (00:00:45) trapsize 445
+\t (00:00:47) Loading consmgr.cxt 
+\t (00:00:47) Loading acns_formula.cxt 
+\i (00:00:47) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
+\i (00:00:47) QtSignal 0
+\i (00:00:47) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:47) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
+\i (00:00:49) trapsize 444
+\i (00:00:49) trapsize 454
+\i (00:00:55) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:00:56) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:00:56) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:00:56) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:00:56) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:00:57) updateport VisibilityPane
+\i (00:00:57) updateport CMPanelPort
+\i (00:00:57) updateport PropPane
+\i (00:00:57) updateport CVPane
+\i (00:00:57) ucpedit 
+\i (00:00:57) updateport ReportsPane
+\i (00:00:57) updateport SearchPane
+\i (00:00:57) updateport VisibilityPane
+\i (00:01:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:04) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:04) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:04) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:04) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:05) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:06) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 41 3
+\i (00:01:06) QtSignal ADTableContainerWidget ComponentsTable doubleClicked 41 3
+\i (00:01:06) trapsize 583
+\i (00:01:07) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 41 3
+\i (00:01:08) prepopup 245.1692 171.9326
+\i (00:01:11) pop dyn_option_select '@:@Edit Footprint (21-0113C_MXM-M)' 
+\i (00:01:11) mod symbol 
+\i (00:01:36) ucpedit 
+\i (00:01:36) updateport VisibilityPane
+\i (00:01:50) QtSignal MainCanvas IRDropPrefDialog closed
+\i (00:01:50) QtSignal MainCanvas RpGrpSel closed
+\i (00:01:50) QtSignal MainCanvas ThermalModelSetupDialog closed
+\i (00:01:50) QtSignal MainCanvas DCResistPrefDialog closed
+\i (00:01:50) QtSignal MainCanvas CplPrefDialog closed
+\i (00:01:50) QtSignal MainCanvas ReturnPathPrefDialog closed
+\i (00:01:50) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:01:50) QtSignal MainCanvas ThermalPrefDialog closed
+\i (00:01:50) QtSignal MainCanvas DesignSetupPrefDialog closed
+\i (00:01:50) QtSignal MainCanvas TopXpPrefDialog closed
+\i (00:01:50) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:01:50) QtSignal MainCanvas ThermalCompSetupDialog closed
+\i (00:01:50) QtSignal MainCanvas CplGrpSel closed
+\i (00:01:50) QtSignal MainCanvas XtalkPrefDialog closed
+\i (00:01:50) QtSignal MainCanvas PkgModelParamDialog closed
+\i (00:01:50) QtSignal MainCanvas IRDropSINKSetupDialog closed
+\i (00:01:50) QtSignal MainCanvas IRDropVRMSetupDialog closed
+\i (00:01:50) QtSignal MainCanvas ImpGrpSel closed
+\i (00:01:50) QtSignal MainCanvas ERCDesignSetupXNetsDialog closed
+\i (00:01:50) QtSignal MainCanvas InterConnModelExtPrefDialog closed
+\i (00:01:50) QtSignal MainCanvas PwrIndPrefDialog closed
+\i (00:01:50) QtSignal MainCanvas RfltPrefDialog closed
+\i (00:01:50) QtSignal MainCanvas ImpPrefDialog closed
+\i (00:01:50) QtSignal MainCanvas IDAPrefDialogWHelp closed
+\i (00:01:50) QtSignal MainCanvas DCRMeasSetupDialog closed
+\i (00:01:50) QtSignal MainCanvas ERCDesignSetupCompsDialog closed
+\i (00:01:51) QtSignal MainCanvas TopXpLayoutLinkNewDialog closed
+\t (00:01:57)     Journal end - Sat Feb  7 17:51:26 2026

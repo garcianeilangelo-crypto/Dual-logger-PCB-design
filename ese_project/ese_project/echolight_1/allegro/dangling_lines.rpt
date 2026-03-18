@@ -1,0 +1,51 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dangling Line, Via and Antenna Report                            )
+(                                                                     )
+(    Drawing          : echolight.brd                                 )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Thu Jan 15 15:51:00 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Report methodology:
+  - Dangling lines have at least one end not connected.
+  - Dangling vias have one or no connection
+      - Plus are not a test, thieving or netshort property via.
+  - Antenna vias do not have connections on their start and end layers.
+      - Plus they are not a thieving vias.
+      - Optionally, VOLTAGE nets, testvias and through vias can be suppressed with
+        the environment variable report_antennavia.
+      - Section may be suppressed by variable report_noantennavia.
+  - Not part of the current partition.
+  - To suppress items in dangle report add the OK_DANGLE property to the via
+    or connect line.
+
+<< Dangling Lines >>  - Location marked with a star (*) is dangling.
+  Net                 Layer                  Length       Location
+  ------------------------------------------------------------------------------------------
+  VCC_BAR              TOP                   0.0005     *(237.8887 160.0205) to  (237.8887 160.0200)
+  0                    TOP                   0.0188      (264.9120 250.4628) to *(264.9253 250.4495)
+  0                    BOTTOM                4.5630      (245.1100 186.0550) to *(248.5907 183.4422)
+  Not a Net            TOP                   0.0010     *(264.1600 158.1150) to *(264.1593 158.1143)
+  Not a Net            TOP                   1.9629     *(280.6700 189.3198) to *(280.6700 187.3722)
+
+
+<< Dangling Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  0                    VIA                  (233.6800 160.6550) TOP/BOTTOM 
+  VDDS                 VIA                  (268.8959 199.8212) TOP/BOTTOM 
+
+
+<< Antenna Vias >>
+  Net                  Padstack               Location            Layers
+  ---------------------------------------------------------------------------
+  0                    VIA                  (233.6800 160.6550) TOP/BOTTOM 
+  VDDS                 VIA                  (268.8959 199.8212) TOP/BOTTOM 
+
+<< Summary >>
+  Total dangling lines:       5
+  Total dangling vias:        2
+  Total antenna vias:         2

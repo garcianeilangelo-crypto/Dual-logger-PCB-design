@@ -1,0 +1,35 @@
+\t (00:19:00) orcadx 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
+\t (00:19:00)     Journal start - Tue Jan 13 11:53:00 2026
+\t (00:19:00)         Host=PIETRO User=ptsci Pid=11144 CPUs=12
+\t (00:19:00) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
+\t (00:19:00) 
+\d (00:19:00) Design opened: C:/Users/ptsci/AppData/Roaming/SPB_Data/cdssetup/OrCAD_Capture/25.1.0/downloaded_parts/allegropcb/CONN_10118194-0001LF_AMP.dra
+\i (00:19:00) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:19:00) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:19:00) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:19:00) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:19:01) trapsize 2437
+\i (00:19:01) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:19:01) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:19:01) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:19:01) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:19:01) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:19:01) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:19:01) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:19:01) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:19:01) updateport PropPane
+\i (00:19:01) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
+\i (00:19:02) updateport VisibilityPane
+\i (00:19:02) updateport CVPane
+\i (00:19:02) ucpedit 
+\i (00:19:02) updateport VisibilityPane
+\i (00:19:07) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:19:07) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:19:07) opencd C:/ORCAD_LABORATORIES/workspace/projects/echolight_1/allegro/echolight.brd 
+\t (00:19:07) Opening existing design...
+\i (00:19:12) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:19:12) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\w (00:19:12) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:19:13) trapsize 58206
+\t (00:19:13) > Sending response DoneOpenBoard
+\t (00:19:14)     Journal end - Tue Jan 13 11:53:13 2026

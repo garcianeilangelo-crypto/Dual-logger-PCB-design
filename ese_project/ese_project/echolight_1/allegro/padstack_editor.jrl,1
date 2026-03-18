@@ -1,0 +1,8 @@
+\t (00:00:00) padstack_editor 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sat Feb  7 14:55:40 2026
+\t (00:00:00)         Host=PIETRO User=ptsci Pid=16936 CPUs=12
+\t (00:00:00) CmdLine= padstack_editor -mpssession ptsci -file C:/Users/ptsci/AppData/Local/Temp/#Taaaafn04624.tmp -pname VIAS -data C:/Users/ptsci/AppData/Local/Temp/#Taaaafr04624.tmp -unison
+\t (00:00:00) 
+\d (00:00:01) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:03) QtSignal MainWindow Exit triggered
+\t (00:00:03)     Journal end - Sat Feb  7 14:55:43 2026

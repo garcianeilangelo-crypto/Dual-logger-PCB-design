@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : echolight.brd                                 )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Sat Feb  7 08:57:57 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Placing page "1"
+	Placed symbol:  MIC1 / ICS-43434_3_LGA_CAV_IVS_ICS-434 / LGA_CAV_IVS at (284.8566 250.7210)
+
+Placing page "6"
+	ERROR:   Could not find symbol:  C18 / CL05B104KP5VPNC_0_CAP_0402_SAM_ / CAP_0402_SAM
+
+Placed 1 of 2 symbols.

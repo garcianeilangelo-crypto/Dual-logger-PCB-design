@@ -1,0 +1,103 @@
+\t (00:00:00) allegro 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Thu Feb  5 19:54:06 2026
+\t (00:00:00)         Host=PRIME User=garci Pid=32740 CPUs=20
+\t (00:00:00) CmdLine= c:\cadence\orcadx_25.1\tools\bin\allegro.exe C:\Users\garci\OneDrive\Desktop\echolight_5_2 2\echolight_5_2\echolight_1\allegropcb\allegropcb\ANTC3216X130N.dra
+\t (00:00:00) 
+\t (00:00:00) Loading axlcore.cxt 
+\t (00:00:00) Opening existing design...
+\i (00:00:01) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged ANTC3216X130N
+\d (00:00:01) Design opened: C:/Users/garci/OneDrive/Desktop/echolight_5_2 2/echolight_5_2/echolight_1/allegropcb/allegropcb/ANTC3216X130N.dra
+\i (00:00:01) trapsize 52708
+\i (00:00:01) trapsize 56624
+\i (00:00:01) trapsize 52708
+\i (00:00:01) trapsize 40842
+\i (00:00:01) trapsize 40842
+\i (00:00:02) updateport SearchPane
+\i (00:00:03) generaledit 
+\t (00:00:03) [19:54:08.416872] Periodic Lic check successful
+[19:54:08.416873] Feature usage summary:
+
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in 166.2916 -73.3553
+\t (00:00:03) Loading consmgr.cxt 
+\t (00:00:03) Loading acns_formula.cxt 
+\i (00:00:03) trapsize 20421
+\i (00:00:03) zoom in 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom in 80.1144 143.0115
+\i (00:00:03) trapsize 10211
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out 81.7481 135.0473
+\i (00:00:03) trapsize 20421
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out 80.1144 131.3715
+\i (00:00:03) trapsize 40842
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out -2.7954 -31.6962
+\i (00:00:03) trapsize 40842
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in -33.8355 36.9189
+\i (00:00:04) trapsize 20421
+\i (00:00:04) zoom in 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in -34.6523 156.8979
+\i (00:00:04) trapsize 10211
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -27.3007 96.6556
+\i (00:00:04) trapsize 20421
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out -27.3007 63.4663
+\i (00:00:04) trapsize 40842
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -17.4986 2.6114
+\i (00:00:05) trapsize 20421
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -5.6544 -25.2587
+\i (00:00:06) trapsize 10211
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -2.5912 -8.3091
+\i (00:00:07) trapsize 5105
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -2.5912 -8.2070
+\i (00:00:07) trapsize 2553
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -0.6001 -2.2338
+\i (00:00:07) trapsize 1276
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -1.1361 -1.9530
+\i (00:00:07) trapsize 638
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in -1.1744 -1.9275
+\i (00:00:08) trapsize 319
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out -1.2190 -1.7488
+\i (00:00:08) trapsize 638
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 2.6355 0.8166
+\i (00:00:16) trapsize 319
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 2.6355 0.8102
+\i (00:00:16) trapsize 160
+\i (00:02:13) exit 
+\t (00:02:13) Lic Summary:
+[19:56:18.322714] Cdslmd servers:C:\Users\garci\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[19:56:18.847249] Feature usage summary:
+
+\t (00:02:13)     Journal end - Thu Feb  5 19:56:18 2026
