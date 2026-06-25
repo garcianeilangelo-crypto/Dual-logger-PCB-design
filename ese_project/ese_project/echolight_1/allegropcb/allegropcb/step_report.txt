@@ -1,5 +1,0 @@
- # extracta for getting transform details 
- BOARD 
- PKGDEF_STEP_FILE 
- PKGDEF_STEP_TRANSFORMATION 
- END
