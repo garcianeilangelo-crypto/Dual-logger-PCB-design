@@ -1,0 +1,231 @@
+\t (00:00:41) orcadx 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
+\t (00:00:41)     Journal start - Tue Jan 13 20:37:01 2026
+\t (00:00:41)         Host=PRIME User=garci Pid=29300 CPUs=20
+\t (00:00:41) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx
+\t (00:00:41) 
+\d (00:00:41) Design opened: C:/Users/garci/OneDrive/Desktop/echolight_1/echolight_1/echolight.brd
+\i (00:00:41) trapsize 6476
+\i (00:00:42) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
+\i (00:00:42) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:42) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
+\t (00:00:48) Loading consmgr.cxt 
+\t (00:00:48) Loading acns_formula.cxt 
+\i (00:00:48) trapsize 7570
+\i (00:00:48) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
+\i (00:00:48) QtSignal 0
+\i (00:00:48) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:48) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
+\i (00:00:50) trapsize 7563
+\i (00:00:50) trapsize 7650
+\w (00:00:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:57) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:00:57) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:00:57) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:00:57) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (00:00:57) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (00:01:00) updateport VisibilityPane
+\w (00:01:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:01:01) updateport CMPanelPort
+\i (00:01:01) updateport PropPane
+\i (00:01:01) updateport CVPane
+\i (00:01:01) ucpedit 
+\i (00:01:01) updateport ReportsPane
+\i (00:01:01) updateport SearchPane
+\i (00:01:01) updateport VisibilityPane
+\i (00:07:53) pick grid 336.6360 207.4293
+\t (00:07:53) last pick:  336.6360 207.4293
+\i (00:08:28) trapsize 6474
+\i (00:08:28) trapsize 7561
+\i (00:08:28) trapsize 7650
+\i (00:08:41) drag_start grid 268.7020 283.1666
+\i (00:08:41) ucp_move 
+\t (00:08:41) last pick:  266.7000 284.4800
+\t (00:08:41) Pick new location for the element(s).
+\i (00:08:41) drag_stop 259.0627 282.2486
+\i (00:08:42) updateport ReportsPane
+\i (00:08:42) updateport SearchPane
+\w (00:08:42) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:08:42) updateport CMPanelPort
+\i (00:08:42) updateport PropPane
+\i (00:08:42) ucpedit 
+\i (00:08:42) updateport ReportsPane
+\i (00:08:42) updateport SearchPane
+\i (00:08:42) updateport VisibilityPane
+\i (00:08:43) zoom out 1 
+\i (00:08:43) setwindow pcb
+\i (00:08:43) zoom out 280.0243 182.9486
+\i (00:08:43) trapsize 14490
+\i (00:08:45) zoom in 1 
+\i (00:08:45) setwindow pcb
+\i (00:08:45) zoom in 265.7454 153.8831
+\i (00:08:45) trapsize 7245
+\i (00:08:45) zoom in 1 
+\i (00:08:45) setwindow pcb
+\i (00:08:45) zoom in 265.4556 153.4484
+\i (00:08:45) trapsize 3622
+\i (00:08:46) pick grid 223.2899 159.1719
+\t (00:08:46) last pick:  223.2899 159.1719
+\i (00:08:47) zoom in 1 
+\i (00:08:47) setwindow pcb
+\i (00:08:47) zoom in 226.1155 149.1014
+\i (00:08:47) trapsize 1811
+\i (00:08:47) zoom in 1 
+\i (00:08:47) setwindow pcb
+\i (00:08:47) zoom in 226.1155 149.1014
+\i (00:08:47) trapsize 906
+\i (00:08:47) zoom in 1 
+\i (00:08:47) setwindow pcb
+\i (00:08:47) zoom in 226.1155 149.1014
+\i (00:08:47) trapsize 453
+\i (00:08:49) zoom out 1 
+\i (00:08:49) setwindow pcb
+\i (00:08:49) zoom out 225.6174 150.0976
+\i (00:08:49) trapsize 906
+\i (00:08:50) zoom out 1 
+\i (00:08:50) setwindow pcb
+\i (00:08:50) zoom out 224.9835 152.9956
+\i (00:08:50) trapsize 1811
+\i (00:08:51) zoom out 1 
+\i (00:08:51) setwindow pcb
+\i (00:08:51) zoom out 267.9099 154.8430
+\i (00:08:51) trapsize 3622
+\i (00:08:52) zoom in 1 
+\i (00:08:52) setwindow pcb
+\i (00:08:52) zoom in 284.4285 147.1633
+\i (00:08:52) trapsize 1811
+\i (00:08:52) zoom in 1 
+\i (00:08:52) setwindow pcb
+\i (00:08:52) zoom in 284.4285 147.1633
+\i (00:08:52) trapsize 906
+\i (00:08:53) zoom in 1 
+\i (00:08:53) setwindow pcb
+\i (00:08:53) zoom in 282.7441 152.2167
+\i (00:08:53) trapsize 453
+\i (00:08:53) zoom in 1 
+\i (00:08:53) setwindow pcb
+\i (00:08:53) zoom in 282.7532 152.6243
+\i (00:08:53) trapsize 226
+\i (00:08:54) zoom out 1 
+\i (00:08:54) setwindow pcb
+\i (00:08:54) zoom out 281.9834 152.5066
+\i (00:08:54) trapsize 453
+\i (00:08:54) zoom out 1 
+\i (00:08:54) setwindow pcb
+\i (00:08:54) zoom out 281.7932 152.8961
+\i (00:08:54) trapsize 906
+\i (00:08:55) zoom out 1 
+\i (00:08:55) setwindow pcb
+\i (00:08:55) zoom out 281.7932 152.8960
+\i (00:08:55) trapsize 1811
+\i (00:08:55) zoom out 1 
+\i (00:08:55) setwindow pcb
+\i (00:08:55) zoom out 283.7494 153.4394
+\i (00:08:55) trapsize 3623
+\i (00:08:56) zoom out 1 
+\i (00:08:56) setwindow pcb
+\i (00:08:56) zoom out 283.8219 153.4395
+\i (00:08:56) trapsize 7245
+\i (00:08:56) zoom out 1 
+\i (00:08:56) setwindow pcb
+\i (00:08:56) zoom out 283.8218 153.4396
+\i (00:08:56) trapsize 14490
+\i (00:08:57) zoom in 1 
+\i (00:08:57) setwindow pcb
+\i (00:08:57) zoom in 255.6024 215.0306
+\i (00:08:57) trapsize 7245
+\i (00:09:05) xNet 0 
+\i (00:09:05) xNet N17869 
+\i (00:09:05) xNet N17929 
+\i (00:09:05) xNet N17941 
+\i (00:09:05) xNet N18053 
+\i (00:09:05) xNet N27003 
+\i (00:09:05) xNet N27100 
+\i (00:09:05) xrefdes C15 
+\i (00:09:05) xrefdes C16 
+\i (00:09:05) xrefdes C17 
+\i (00:09:05) xrefdes C18 
+\i (00:09:05) xrefdes L6 
+\i (00:09:05) xrefdes L7 
+\i (00:09:05) xrefdes L8 
+\i (00:09:05) xrefdes L9 
+\i (00:09:05) xrefdes L10 
+\i (00:09:05) xrefdes Ant1 
+\i (00:09:05) xname_flush 
+\i (00:09:05) trapsize 5114
+\w (00:09:05) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:09:06) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:09:06) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:09:07) updateport ReportsPane
+\i (00:09:07) updateport SearchPane
+\i (00:09:07) updateport PropPane
+\i (00:09:10) pick grid 197.2778 269.2271
+\t (00:09:10) last pick:  197.2778 269.2271
+\w (00:09:10) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:09:10) updateport ReportsPane
+\i (00:09:10) updateport SearchPane
+\i (00:09:10) updateport PropPane
+\i (00:09:16) zoom in 1 
+\i (00:09:16) setwindow pcb
+\i (00:09:16) zoom in 251.4872 247.8502
+\i (00:09:16) trapsize 2557
+\i (00:09:16) zoom in 1 
+\i (00:09:16) setwindow pcb
+\i (00:09:16) zoom in 251.4872 247.8502
+\i (00:09:16) trapsize 1279
+\i (00:09:16) zoom in 1 
+\i (00:09:16) setwindow pcb
+\i (00:09:16) zoom in 251.4872 247.8502
+\i (00:09:16) trapsize 639
+\i (00:09:17) zoom out 1 
+\i (00:09:17) setwindow pcb
+\i (00:09:17) zoom out 251.4873 247.8630
+\i (00:09:17) trapsize 1279
+\i (00:09:17) zoom out 1 
+\i (00:09:17) setwindow pcb
+\i (00:09:17) zoom out 251.4872 247.8630
+\i (00:09:17) trapsize 2557
+\i (00:09:17) zoom in 1 
+\i (00:09:17) setwindow pcb
+\i (00:09:17) zoom in 250.7713 256.5570
+\i (00:09:17) trapsize 1279
+\i (00:11:59) save 
+\i (00:12:00) fillin yes 
+\t (00:12:00) > Sending response DoneOpenBoard
+\i (00:12:00) updateport ReportsPane
+\i (00:12:00) updateport SearchPane
+\i (00:12:00) updateport PropPane
+\i (00:12:00) ucpedit 
+\i (00:12:01) updateport VisibilityPane
+\i (00:12:07) QtSignal MainCanvas RpGrpSel closed
+\i (00:12:07) QtSignal MainCanvas TopXpPrefDialog closed
+\i (00:12:07) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:12:07) QtSignal MainCanvas ThermalPrefDialog closed
+\i (00:12:07) QtSignal MainCanvas ERCDesignSetupXNetsDialog closed
+\i (00:12:07) QtSignal MainCanvas ThermalModelSetupDialog closed
+\i (00:12:07) QtSignal MainCanvas ImpPrefDialog closed
+\i (00:12:07) QtSignal MainCanvas IRDropSINKSetupDialog closed
+\i (00:12:07) QtSignal MainCanvas IDAPrefDialogWHelp closed
+\i (00:12:07) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:12:07) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:12:07) QtSignal MainCanvas RfltPrefDialog closed
+\i (00:12:07) QtSignal MainCanvas PwrIndPrefDialog closed
+\i (00:12:07) QtSignal MainCanvas ReturnPathPrefDialog closed
+\i (00:12:07) QtSignal MainCanvas DCResistPrefDialog closed
+\i (00:12:07) QtSignal MainCanvas DesignSetupPrefDialog closed
+\i (00:12:07) QtSignal MainCanvas DCRMeasSetupDialog closed
+\i (00:12:07) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:12:07) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:12:07) QtSignal MainCanvas XtalkPrefDialog closed
+\i (00:12:07) QtSignal MainCanvas IRDropPrefDialog closed
+\i (00:12:07) QtSignal MainCanvas ThermalCompSetupDialog closed
+\i (00:12:07) QtSignal MainCanvas CplPrefDialog closed
+\i (00:12:07) QtSignal MainCanvas InterConnModelExtPrefDialog closed
+\i (00:12:07) QtSignal MainCanvas IRDropVRMSetupDialog closed
+\i (00:12:07) QtSignal MainCanvas ERCDesignSetupCompsDialog closed
+\i (00:12:07) QtSignal MainCanvas CplGrpSel closed
+\i (00:12:07) QtSignal MainCanvas PkgModelParamDialog closed
+\i (00:12:07) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:12:07) QtSignal MainCanvas ImpGrpSel closed
+\i (00:12:07) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:12:07) QtSignal MainCanvas TopXpLayoutLinkNewDialog closed
+\t (00:12:14)     Journal end - Tue Jan 13 20:48:34 2026

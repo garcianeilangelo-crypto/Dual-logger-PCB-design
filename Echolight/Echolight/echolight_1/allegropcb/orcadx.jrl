@@ -1,0 +1,83 @@
+\t (00:00:02) orcadx 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Sat Feb  7 22:31:41 2026
+\t (00:00:02)         Host=PRIME User=garci Pid=1680 CPUs=20
+\t (00:00:02) CmdLine= unison -layout -orcadx -productToken 00013EF4BFDFA3E6B3F839E7F4D5F4B1B3E225A3BECAF0A9B0F63AFFE983F5B6B2FD64D5AEF1B2C7BA8038F3EF8383C6DF9F2CF1C1A6B3F7E6AA3AC5D48690E8EC9032A3FBC7A3B5B0AE3DE2E186F4B4B3FB38FBED9BC09A80CF23988AE4C084E9CF3496BDF7C084E5CF07C4D285FF84BFF038FBED85C08480CF38FBED85C08480CF517C42BE6FBFE94800004087 C:/Users/garci/OneDrive/Desktop/echolight/echolight_7_2/echolight_1/allegropcb/ind_lqp03hq2n0b02d.dra
+\t (00:00:02) 
+\d (00:00:02) Design opened: C:/Users/garci/OneDrive/Desktop/echolight/echolight_7_2/echolight_1/allegropcb/ind_lqp03hq2n0b02d.dra
+\i (00:00:02) trapsize 414
+\i (00:00:02) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
+\i (00:00:02) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:02) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
+\i (00:00:07) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
+\i (00:00:07) QtSignal 0
+\i (00:00:07) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:07) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
+\t (00:00:09) Loading consmgr.cxt 
+\t (00:00:09) Loading acns_formula.cxt 
+\i (00:00:09) trapsize 418
+\i (00:00:11) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:00:11) QtSignal ucp_shape_create_dyn_dim UCPAddShape_Type CurrentIndexChanged 1
+\i (00:00:11) updateport VisibilityPane
+\i (00:00:12) updateport CMPanelPort
+\i (00:00:12) updateport PropPane
+\i (00:00:12) updateport CVPane
+\i (00:00:12) ucpedit 
+\i (00:00:12) updateport ReportsPane
+\i (00:00:12) updateport SearchPane
+\i (00:00:12) updateport VisibilityPane
+\i (00:00:13) pick grid -0.2266 1.0465
+\t (00:00:13) last pick:  -0.2266 1.0465
+\i (00:00:16) QtSignal Allegro_Command_Toolbar AQCommandToolbarAddRefdesButton rightClicked
+\i (00:00:17) QtSignal AddRefdesPopUpMenu Add_Refdes clicked
+\i (00:00:17) ucp_add_refdes_mode 
+\i (00:00:17) ucpedit 
+\i (00:00:17) QtSignal UCP_Refdes_add cb_textBlock CurrentIndexChanged " 1 (0.4064, 0.6350)"
+\i (00:00:17) QtSignal UCP_Refdes_add cb_textBlock CurrentIndexChanged " 3 (0.9652, 1.2700)"
+\i (00:00:17) QtSignal UCP_Refdes_add cb_style CurrentIndexChanged "No Style"
+\i (00:00:17) QtSignal UCP_Refdes_add cb_font CurrentIndexChanged "Agency FB"
+\i (00:00:17) updateport ReportsPane
+\i (00:00:17) updateport SearchPane
+\i (00:00:17) updateport VisibilityPane
+\i (00:00:17) updateport PropPane
+\i (00:00:22) QtSignal UCP_Refdes_add le_height editingFinished "2 MM"
+\i (00:00:22) QtSignal UCP_Refdes_add silkscreenButton clicked false
+\i (00:00:22) updateport ReportsPane
+\i (00:00:22) updateport SearchPane
+\i (00:00:22) updateport PropPane
+\i (00:00:23) QtSignal UCP_Refdes_add addRefdesButton clicked
+\i (00:00:23) ucp_selection_mode 
+\i (00:00:23) updateport ReportsPane
+\i (00:00:23) updateport SearchPane
+\i (00:00:23) updateport VisibilityPane
+\i (00:00:23) updateport PropPane
+\i (00:00:23) ucpedit 
+\i (00:00:23) updateport VisibilityPane
+\i (00:00:24) prepopup 0.9024 0.8375
+\i (00:00:25) pop dyn_option_select @:@Move 
+\i (00:00:25) ucp_move 
+\t (00:00:25) last pick:  0.9024 0.8375
+\t (00:00:25) Pick new location for the element(s).
+\i (00:00:26) pick grid -2.9613 0.3524
+\t (00:00:26) last pick:  -2.9613 0.3524
+\i (00:00:26) updateport ReportsPane
+\i (00:00:26) updateport SearchPane
+\i (00:00:26) updateport PropPane
+\i (00:00:26) ucpedit 
+\i (00:00:26) updateport VisibilityPane
+\i (00:00:27) ucp_delete 
+\i (00:00:27) updateport ReportsPane
+\i (00:00:27) updateport SearchPane
+\i (00:00:27) updateport PropPane
+\i (00:00:27) ucpedit 
+\i (00:00:27) updateport VisibilityPane
+\i (00:00:28) save 
+\i (00:00:30) fillin yes 
+\t (00:00:30) Symbol 'ind_lqp03hq2n0b02d.psm' created.
+\i (00:00:30) updateport ReportsPane
+\i (00:00:30) updateport SearchPane
+\i (00:00:30) updateport PropPane
+\i (00:00:30) ucpedit 
+\i (00:00:30) updateport VisibilityPane
+\i (00:00:31) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\i (00:00:31) QtSignal EditViaWidgetCMPanel DrawOptionsDlg closed
+\t (00:00:38)     Journal end - Sat Feb  7 22:32:17 2026

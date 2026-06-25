@@ -1,0 +1,62 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : echolight2.brd                                )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Sat Feb  7 21:46:12 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (inch)
+ FEEDRATE		0
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	YES
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		YES
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	YES
+ ENHANCED_EXCELLON	YES
+ SCALE			1.000000
+
+ WARNING(SPMHMF-363): Units system is being switched when generating drill output file data.
+
+
+Drill files being output to directory 'C:/Users/garci/OneDrive/Desktop/echolight/echolight_7_2/echolight_1/allegro' ...
+
+
+
+     'echolight2-1-2.drl' created for holes connecting TOP and BOTTOM
+     ----------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.  12.9921    0.0000/  0.0000      PLATED         37
+            2.  14.9606    0.0000/  0.0000      PLATED        271
+            3.  39.3701    0.0000/  0.0000      PLATED          4
+            4.  42.1299    0.0000/  0.0000      PLATED          1
+            5.  47.2441    0.0000/  0.0000      PLATED          2
+            6.  14.7638    0.0000/  0.0000  NON_PLATED          1
+            7.  94.0000    0.0000/  0.0000  NON_PLATED          1
+            8. 137.7953    0.0000/  0.0000  NON_PLATED          2
+
+     ---- Total holes:                                        319
+
+     ---- Total head travel:              6.64 feet (2.02 meters)
+

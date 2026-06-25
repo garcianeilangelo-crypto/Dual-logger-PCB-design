@@ -1,0 +1,414 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : echolight2.brd                                )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Sat Feb  7 21:46:11 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Users/garci/OneDrive/Desktop/echolight/echolight_7_2/echolight_1/allegro/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.36000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.54000                                  DARK 
+  CIRCLE     0.70000                                  DARK 
+  CIRCLE     0.75000                                  DARK 
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     2.06000                                  DARK 
+  CIRCLE     2.20000                                  DARK 
+  CIRCLE     2.38760                                  DARK 
+  CIRCLE     3.60000                                  DARK 
+  SQUARE     1.60000                     0.000 NO     DARK 
+  SQUARE     3.45010                     0.000 NO     DARK 
+  RECTANGLE  0.10000     x 0.10000       0.000 NO     DARK 
+  RECTANGLE  0.25000     x 1.20000       0.000 NO     DARK 
+  RECTANGLE  0.30000     x 0.30000       0.000 NO     DARK 
+  RECTANGLE  0.40000     x 0.50000      90.000 NO     DARK 
+  RECTANGLE  0.40000     x 1.35000       0.000 NO     DARK 
+  RECTANGLE  0.50000     x 0.50000      90.000 NO     DARK 
+  RECTANGLE  0.50010     x 0.50010      90.000 NO     DARK 
+  RECTANGLE  0.50800     x 0.55880      90.000 NO     DARK 
+  RECTANGLE  0.52200     x 0.60000       0.000 NO     DARK 
+  RECTANGLE  0.65000     x 0.70000       0.000 NO     DARK 
+  RECTANGLE  0.65000     x 0.70000      90.000 NO     DARK 
+  RECTANGLE  0.65000     x 1.35000      90.000 NO     DARK 
+  RECTANGLE  0.65560     x 0.49990      90.000 NO     DARK 
+  RECTANGLE  0.65560     x 0.80000      90.000 NO     DARK 
+  RECTANGLE  0.71120     x 0.55880       0.000 NO     DARK 
+  RECTANGLE  0.71120     x 0.55880      90.000 NO     DARK 
+  RECTANGLE  0.75560     x 0.80010       0.000 NO     DARK 
+  RECTANGLE  0.76200     x 0.81280       0.000 NO     DARK 
+  RECTANGLE  0.80000     x 1.66000       0.000 NO     DARK 
+  RECTANGLE  0.92000     x 0.97990       0.000 NO     DARK 
+  RECTANGLE  1.00560     x 0.95000       0.000 NO     DARK 
+  RECTANGLE  1.01600     x 1.19380       0.000 NO     DARK 
+  RECTANGLE  1.01600     x 1.75260      90.000 NO     DARK 
+  RECTANGLE  1.10000     x 1.90000       0.000 NO     DARK 
+  RECTANGLE  1.11760     x 0.45720       0.000 NO     DARK 
+  RECTANGLE  1.32080     x 0.50800      90.000 NO     DARK 
+  RECTANGLE  1.40000     x 1.15000      90.000 NO     DARK 
+  RECTANGLE  1.80000     x 1.90000       0.000 NO     DARK 
+  RECTANGLE  1.90000     x 1.90000       0.000 NO     DARK 
+  RECTANGLE  2.10000     x 1.60000       0.000 NO     DARK 
+  RECTANGLE  7.30000     x 6.40000      90.000 NO     DARK 
+  OBLONG     0.24000     x 0.59990       0.000 NO     DARK 
+  OBLONG     0.24000     x 0.59990      90.000 NO     DARK 
+  OBLONG     0.24990     x 0.49990       0.000 NO     DARK 
+  PAD SHAPE  PS_R59_60_D530             90.000 NO     DARK 
+  PAD SHAPE  PS_R59_60_D530            180.000 NO     DARK 
+
+     TOP created.
+
+
+================================================================
+     PROCESSING FILM < SSTP >
+     TO FILE < C:/Users/garci/OneDrive/Desktop/echolight/echolight_7_2/echolight_1/allegro/SSTP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (225.4756 251.4284)
+           ... using undefined line width of 0.1000
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.1000
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.17780                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+
+     SSTP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SSBT >
+     TO FILE < C:/Users/garci/OneDrive/Desktop/echolight/echolight_7_2/echolight_1/allegro/SSBT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+
+     SSBT created.
+
+
+================================================================
+     PROCESSING FILM < SPTP >
+     TO FILE < C:/Users/garci/OneDrive/Desktop/echolight/echolight_7_2/echolight_1/allegro/SPTP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  SQUARE     0.02540                     0.000 NO     DARK 
+  RECTANGLE  0.10000     x 0.10000       0.000 NO     DARK 
+  RECTANGLE  0.30000     x 0.30000       0.000 NO     DARK 
+  RECTANGLE  0.40000     x 0.50000      90.000 NO     DARK 
+  RECTANGLE  0.40000     x 1.35000       0.000 NO     DARK 
+  RECTANGLE  0.50000     x 0.50000      90.000 NO     DARK 
+  RECTANGLE  0.50010     x 0.50010      90.000 NO     DARK 
+  RECTANGLE  0.50800     x 0.55880      90.000 NO     DARK 
+  RECTANGLE  0.52200     x 0.60000       0.000 NO     DARK 
+  RECTANGLE  0.65000     x 0.70000      90.000 NO     DARK 
+  RECTANGLE  0.65560     x 0.49990      90.000 NO     DARK 
+  RECTANGLE  0.65560     x 0.80000      90.000 NO     DARK 
+  RECTANGLE  0.71120     x 0.55880       0.000 NO     DARK 
+  RECTANGLE  0.71120     x 0.55880      90.000 NO     DARK 
+  RECTANGLE  0.75000     x 0.80000       0.000 NO     DARK 
+  RECTANGLE  0.75560     x 0.80010       0.000 NO     DARK 
+  RECTANGLE  0.76200     x 0.81280       0.000 NO     DARK 
+  RECTANGLE  0.80000     x 1.66000       0.000 NO     DARK 
+  RECTANGLE  0.92000     x 0.97990       0.000 NO     DARK 
+  RECTANGLE  1.00560     x 0.95000       0.000 NO     DARK 
+  RECTANGLE  1.01600     x 1.19380       0.000 NO     DARK 
+  RECTANGLE  1.01600     x 1.75260      90.000 NO     DARK 
+  RECTANGLE  1.10000     x 1.90000       0.000 NO     DARK 
+  RECTANGLE  1.11760     x 0.45720       0.000 NO     DARK 
+  RECTANGLE  1.32080     x 0.50800      90.000 NO     DARK 
+  RECTANGLE  1.40000     x 1.15000      90.000 NO     DARK 
+  RECTANGLE  1.80000     x 1.90000       0.000 NO     DARK 
+  RECTANGLE  1.90000     x 1.90000       0.000 NO     DARK 
+  RECTANGLE  2.10000     x 1.60000       0.000 NO     DARK 
+  RECTANGLE  7.30000     x 6.40000      90.000 NO     DARK 
+  OBLONG     0.04670     x 0.29670       0.000 NO     DARK 
+  OBLONG     0.24000     x 0.59990       0.000 NO     DARK 
+  OBLONG     0.24000     x 0.59990      90.000 NO     DARK 
+  PAD SHAPE  PS_R59_60_D530             90.000 NO     DARK 
+  PAD SHAPE  PS_R59_60_D530            180.000 NO     DARK 
+
+     SPTP created.
+
+
+================================================================
+     PROCESSING FILM < SPBT >
+     TO FILE < C:/Users/garci/OneDrive/Desktop/echolight/echolight_7_2/echolight_1/allegro/SPBT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+
+     SPBT created.
+
+
+================================================================
+     PROCESSING FILM < SMTP >
+     TO FILE < C:/Users/garci/OneDrive/Desktop/echolight/echolight_7_2/echolight_1/allegro/SMTP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     1.70000                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     2.38760                                  DARK 
+  CIRCLE     3.70000                                  DARK 
+  SQUARE     1.80000                     0.000 NO     DARK 
+  SQUARE     3.55170                     0.000 NO     DARK 
+  RECTANGLE  0.20000     x 0.20000       0.000 NO     DARK 
+  RECTANGLE  0.40000     x 0.40000       0.000 NO     DARK 
+  RECTANGLE  0.50000     x 0.60000      90.000 NO     DARK 
+  RECTANGLE  0.50000     x 1.45000       0.000 NO     DARK 
+  RECTANGLE  0.50800     x 0.55880      90.000 NO     DARK 
+  RECTANGLE  0.60000     x 0.60000      90.000 NO     DARK 
+  RECTANGLE  0.63300     x 0.70000       0.000 NO     DARK 
+  RECTANGLE  0.65560     x 0.49990      90.000 NO     DARK 
+  RECTANGLE  0.65560     x 0.80000      90.000 NO     DARK 
+  RECTANGLE  0.70000     x 0.70000      90.000 NO     DARK 
+  RECTANGLE  0.71120     x 0.55880       0.000 NO     DARK 
+  RECTANGLE  0.71120     x 0.55880      90.000 NO     DARK 
+  RECTANGLE  0.75000     x 0.80000       0.000 NO     DARK 
+  RECTANGLE  0.75000     x 0.80000      90.000 NO     DARK 
+  RECTANGLE  0.75160     x 1.45160      90.000 NO     DARK 
+  RECTANGLE  0.75560     x 0.80010       0.000 NO     DARK 
+  RECTANGLE  0.76200     x 0.81280       0.000 NO     DARK 
+  RECTANGLE  0.90000     x 1.76000       0.000 NO     DARK 
+  RECTANGLE  1.00560     x 0.95000       0.000 NO     DARK 
+  RECTANGLE  1.01600     x 1.19380       0.000 NO     DARK 
+  RECTANGLE  1.01600     x 1.75260      90.000 NO     DARK 
+  RECTANGLE  1.11760     x 0.45720       0.000 NO     DARK 
+  RECTANGLE  1.11990     x 1.18010       0.000 NO     DARK 
+  RECTANGLE  1.30000     x 2.10000       0.000 NO     DARK 
+  RECTANGLE  1.47000     x 0.65000      90.000 NO     DARK 
+  RECTANGLE  1.50000     x 1.25000      90.000 NO     DARK 
+  RECTANGLE  1.90000     x 2.00000       0.000 NO     DARK 
+  RECTANGLE  2.00000     x 2.00000       0.000 NO     DARK 
+  RECTANGLE  2.20000     x 1.70000       0.000 NO     DARK 
+  RECTANGLE  7.60000     x 6.70000      90.000 NO     DARK 
+  OBLONG     0.34160     x 0.70150       0.000 NO     DARK 
+  OBLONG     0.34160     x 0.70150      90.000 NO     DARK 
+  OBLONG     0.35150     x 0.60150       0.000 NO     DARK 
+  PAD SHAPE  PS_R79_80_D530             90.000 NO     DARK 
+  PAD SHAPE  PS_R79_80_D530            180.000 NO     DARK 
+
+     SMTP created.
+
+
+================================================================
+     PROCESSING FILM < SMBT >
+     TO FILE < C:/Users/garci/OneDrive/Desktop/echolight/echolight_7_2/echolight_1/allegro/SMBT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     1.70000                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     2.38760                                  DARK 
+  CIRCLE     3.70000                                  DARK 
+  SQUARE     1.80000                     0.000 NO     DARK 
+
+     SMBT created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Users/garci/OneDrive/Desktop/echolight/echolight_7_2/echolight_1/allegro/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.70000                                  DARK 
+  CIRCLE     0.75000                                  DARK 
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     2.38760                                  DARK 
+  CIRCLE     3.60000                                  DARK 
+  SQUARE     1.60000                     0.000 NO     DARK 
+
+     BOTTOM created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created.
+        SSTP created with warnings
+        SSBT created.
+        SPTP created.
+        SPBT created.
+        SMTP created.
+        SMBT created.
+        BOTTOM created.
+
+ ARTWORK had warnings

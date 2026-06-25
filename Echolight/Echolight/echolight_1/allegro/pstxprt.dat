@@ -1,0 +1,538 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 25.1.0 d001Feb-07-2026 at 22:14:52 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='ECHOLIGHT';
+ POST_TIME='Sep 14 2025 20:02:13';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ ANT1 'RFANT3216120A5T_ANTC3216X130N_R':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS27084@RFANT3216120A5T.RFANT3216120A5T.NORMAL(CHIPS)':
+ C_PATH='@echolight.echolight(sch_1):ins27084@rfant3216120a5t.\rfant3216120a5t.normal\(chips)',
+ P_PATH='@echolight.echolight(sch_1):page5_ins27084@rfant3216120a5t.\rfant3216120a5t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(910,340)',
+ SECTION='';
+
+PART_NAME
+ B1 '1042P_1042P_KEY_BAT':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS4221@36-1042P-ND.1042P.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins4221@\36-1042p-nd\.\1042p.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page2_ins4221@\36-1042p-nd\.\1042p.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(650,150)',
+ SECTION='';
+
+PART_NAME
+ C1 'C0603C104K5RACTU_0_CAPC17595_95':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS57003@ECHOLIGHT.C0603C104K5RACTU_0.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins57003@echolight.\c0603c104k5ractu_0.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page1_ins57003@echolight.\c0603c104k5ractu_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(600,450)',
+ SECTION='';
+
+PART_NAME
+ C10 '0603YC104KAZ2A_CAPC1608X90N_100':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS24767@0603YC104KAZ2A.0603YC104KAZ2A.NORMAL(CHIPS)':
+ C_PATH='@echolight.echolight(sch_1):ins24767@\0603yc104kaz2a\.\0603yc104kaz2a.normal\(chips)',
+ P_PATH='@echolight.echolight(sch_1):page5_ins24767@\0603yc104kaz2a\.\0603yc104kaz2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(870,80)',
+ SECTION='';
+
+PART_NAME
+ C11 'C_0_WCAP-CSGP_0402_6.8 PF':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS20015@ECHOLIGHT.C_0.NORMAL(CHIPS)':
+ C_PATH='@echolight.echolight(sch_1):ins20015@echolight.\c_0.normal\(chips)',
+ P_PATH='@echolight.echolight(sch_1):page5_ins20015@echolight.\c_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(560,270)',
+ SECTION='';
+
+PART_NAME
+ C12 'GRM1555C1H102JA01D_CAPC1005X55N':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS19962@GRM1555C1H102JA01D.GRM1555C1H102JA01D.NORMAL(CHIPS)':
+ C_PATH='@echolight.echolight(sch_1):ins19962@grm1555c1h102ja01d.\grm1555c1h102ja01d.normal\(chips)',
+ P_PATH='@echolight.echolight(sch_1):page5_ins19962@grm1555c1h102ja01d.\grm1555c1h102ja01d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(650,390)',
+ SECTION='';
+
+PART_NAME
+ C13 'GJM1555C1H1R0WB01D_CAPC1005X55N':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS20111@GJM1555C1H1R0WB01D.GJM1555C1H1R0WB01D.NORMAL(CHIPS)':
+ C_PATH='@echolight.echolight(sch_1):ins20111@gjm1555c1h1r0wb01d.\gjm1555c1h1r0wb01d.normal\(chips)',
+ P_PATH='@echolight.echolight(sch_1):page5_ins20111@gjm1555c1h1r0wb01d.\gjm1555c1h1r0wb01d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,470)',
+ SECTION='';
+
+PART_NAME
+ C14 'GJM1555C1H1R0WB01D_CAPC1005X55N':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS20279@GJM1555C1H1R0WB01D.GJM1555C1H1R0WB01D.NORMAL(CHIPS)':
+ C_PATH='@echolight.echolight(sch_1):ins20279@gjm1555c1h1r0wb01d.\gjm1555c1h1r0wb01d.normal\(chips)',
+ P_PATH='@echolight.echolight(sch_1):page5_ins20279@gjm1555c1h1r0wb01d.\gjm1555c1h1r0wb01d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(550,510)',
+ SECTION='';
+
+PART_NAME
+ C15 'JMK105BJ105KV-F_0_CAP_UMK105CG0':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS70384@ECHOLIGHT.JMK105BJ105KV-F_0.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins70384@echolight.\jmk105bj105kv-f_0.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page5_ins70384@echolight.\jmk105bj105kv-f_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(400,500)',
+ SECTION='';
+
+PART_NAME
+ C16 'C0402C120C5GACTU_CAPC1005X55N_1':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS20352@C0402C120C5GACTU.C0402C120C5GACTU.NORMAL(CHIPS)':
+ C_PATH='@echolight.echolight(sch_1):ins20352@c0402c120c5gactu.\c0402c120c5gactu.normal\(chips)',
+ P_PATH='@echolight.echolight(sch_1):page5_ins20352@c0402c120c5gactu.\c0402c120c5gactu.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(30,550)',
+ SECTION='';
+
+PART_NAME
+ C17 'C0402C120C5GACTU_CAPC1005X55N_1':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS20336@C0402C120C5GACTU.C0402C120C5GACTU.NORMAL(CHIPS)':
+ C_PATH='@echolight.echolight(sch_1):ins20336@c0402c120c5gactu.\c0402c120c5gactu.normal\(chips)',
+ P_PATH='@echolight.echolight(sch_1):page5_ins20336@c0402c120c5gactu.\c0402c120c5gactu.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(90,550)',
+ SECTION='';
+
+PART_NAME
+ C18 'CL05B104KP5VPNC_0_CAP_0402_SAM_':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS90@ECHOLIGHT.CL05B104KP5VPNC_0.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins90@echolight.\cl05b104kp5vpnc_0.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page6_ins90@echolight.\cl05b104kp5vpnc_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(260,70)',
+ SECTION='';
+
+PART_NAME
+ C2 'JMK105BJ105KV-F_2_CAP_UMK105CG0':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS2402@ECHOLIGHT.JMK105BJ105KV-F_2.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins2402@echolight.\jmk105bj105kv-f_2.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page3_ins2402@echolight.\jmk105bj105kv-f_2.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(650,190)',
+ SECTION='';
+
+PART_NAME
+ C3 'JMK105BJ105KV-F_2_CAP_UMK105CG0':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS2418@ECHOLIGHT.JMK105BJ105KV-F_2.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins2418@echolight.\jmk105bj105kv-f_2.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page3_ins2418@echolight.\jmk105bj105kv-f_2.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(240,210)',
+ SECTION='';
+
+PART_NAME
+ C4 'JMK105BJ105KV-F_1_CAP_UMK105CG0':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS76212@ECHOLIGHT.JMK105BJ105KV-F_1.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins76212@echolight.\jmk105bj105kv-f_1.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page5_ins76212@echolight.\jmk105bj105kv-f_1.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(290,70)',
+ SECTION='';
+
+PART_NAME
+ C5 '0603YC104KAZ2A_CAPC1608X90N_100':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS26022@0603YC104KAZ2A.0603YC104KAZ2A.NORMAL(CHIPS)':
+ C_PATH='@echolight.echolight(sch_1):ins26022@\0603yc104kaz2a\.\0603yc104kaz2a.normal\(chips)',
+ P_PATH='@echolight.echolight(sch_1):page5_ins26022@\0603yc104kaz2a\.\0603yc104kaz2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(370,70)',
+ SECTION='';
+
+PART_NAME
+ C6 '0603YC104KAZ2A_CAPC1608X90N_100':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS25946@0603YC104KAZ2A.0603YC104KAZ2A.NORMAL(CHIPS)':
+ C_PATH='@echolight.echolight(sch_1):ins25946@\0603yc104kaz2a\.\0603yc104kaz2a.normal\(chips)',
+ P_PATH='@echolight.echolight(sch_1):page5_ins25946@\0603yc104kaz2a\.\0603yc104kaz2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,70)',
+ SECTION='';
+
+PART_NAME
+ C7 '0603YC104KAZ2A_CAPC1608X90N_100':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS24719@0603YC104KAZ2A.0603YC104KAZ2A.NORMAL(CHIPS)':
+ C_PATH='@echolight.echolight(sch_1):ins24719@\0603yc104kaz2a\.\0603yc104kaz2a.normal\(chips)',
+ P_PATH='@echolight.echolight(sch_1):page5_ins24719@\0603yc104kaz2a\.\0603yc104kaz2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(690,80)',
+ SECTION='';
+
+PART_NAME
+ C8 '0603YC104KAZ2A_CAPC1608X90N_100':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS24735@0603YC104KAZ2A.0603YC104KAZ2A.NORMAL(CHIPS)':
+ C_PATH='@echolight.echolight(sch_1):ins24735@\0603yc104kaz2a\.\0603yc104kaz2a.normal\(chips)',
+ P_PATH='@echolight.echolight(sch_1):page5_ins24735@\0603yc104kaz2a\.\0603yc104kaz2a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(750,80)',
+ SECTION='';
+
+PART_NAME
+ C9 'JMK105BJ105KV-F_1_CAP_UMK105CG0':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS76228@ECHOLIGHT.JMK105BJ105KV-F_1.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins76228@echolight.\jmk105bj105kv-f_1.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page5_ins76228@echolight.\jmk105bj105kv-f_1.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,80)',
+ SECTION='';
+
+PART_NAME
+ FL1 'BLM18BD221SN1D_IND_BLM18_0603_M':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS53582@490-5213-1-ND.BLM18BD221SN1D.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins53582@\490-5213-1-nd\.\blm18bd221sn1d.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page5_ins53582@\490-5213-1-nd\.\blm18bd221sn1d.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(600,60)',
+ SECTION='';
+
+PART_NAME
+ J1 '10118192-0001LF_CONN_10118192-0':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS61797@609-4613-2-ND.10118192-0001LF.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins61797@\609-4613-2-nd\.\10118192-0001lf.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page2_ins61797@\609-4613-2-nd\.\10118192-0001lf.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(200,180)',
+ SECTION='';
+
+PART_NAME
+ J2 'M20-9990246_HARWIN_M20-9990246_':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS28028@M20-9990246.M20-9990246.NORMAL(CHIPS)':
+ C_PATH='@echolight.echolight(sch_1):ins28028@\m20-9990246\.\m20-9990246.normal\(chips)',
+ P_PATH='@echolight.echolight(sch_1):page5_ins28028@\m20-9990246\.\m20-9990246.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,620)',
+ SECTION='';
+
+PART_NAME
+ L1 'MLZ1608M100WTD25_IND_1608_TDK_1':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS72623@445-175588-2-ND.MLZ1608M100WTD25.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins72623@\445-175588-2-nd\.\mlz1608m100wtd25.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page5_ins72623@\445-175588-2-nd\.\mlz1608m100wtd25.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(230,50)',
+ SECTION='';
+
+PART_NAME
+ L2 'LQG15HS2N4S02D_IND_LQG15XXXX02X':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS76153@490-8389-2-ND.LQG15HS2N4S02D.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins76153@\490-8389-2-nd\.\lqg15hs2n4s02d.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page5_ins76153@\490-8389-2-nd\.\lqg15hs2n4s02d.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,310)',
+ SECTION='';
+
+PART_NAME
+ L3 'MLG1005S6N2ST000_0_INDC1005X55N':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS21134@ECHOLIGHT.MLG1005S6N2ST000_0.NORMAL(CHIPS)':
+ C_PATH='@echolight.echolight(sch_1):ins21134@echolight.\mlg1005s6n2st000_0.normal\(chips)',
+ P_PATH='@echolight.echolight(sch_1):page5_ins21134@echolight.\mlg1005s6n2st000_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(600,420)',
+ SECTION='';
+
+PART_NAME
+ L4 'LQP03HQ2N0B02D_0_IND_LQP03HQ2N0':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS21332@ECHOLIGHT.LQP03HQ2N0B02D_0.NORMAL(CHIPS)':
+ C_PATH='@echolight.echolight(sch_1):ins21332@echolight.\lqp03hq2n0b02d_0.normal\(chips)',
+ P_PATH='@echolight.echolight(sch_1):page5_ins21332@echolight.\lqp03hq2n0b02d_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,440)',
+ SECTION='';
+
+PART_NAME
+ L5 'LQP03HQ2N0B02D_1_IND_LQP03HQ2N0':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS21400@ECHOLIGHT.LQP03HQ2N0B02D_1.NORMAL(CHIPS)':
+ C_PATH='@echolight.echolight(sch_1):ins21400@echolight.\lqp03hq2n0b02d_1.normal\(chips)',
+ P_PATH='@echolight.echolight(sch_1):page5_ins21400@echolight.\lqp03hq2n0b02d_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(840,440)',
+ SECTION='';
+
+PART_NAME
+ L6 'LQG18HN2N7S00D_0_INDC1608X95N_2':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS21076@ECHOLIGHT.LQG18HN2N7S00D_0.NORMAL(CHIPS)':
+ C_PATH='@echolight.echolight(sch_1):ins21076@echolight.\lqg18hn2n7s00d_0.normal\(chips)',
+ P_PATH='@echolight.echolight(sch_1):page5_ins21076@echolight.\lqg18hn2n7s00d_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(640,490)',
+ SECTION='';
+
+PART_NAME
+ LED1 'XZCMECBDDGK53W_XZCMECBDDGK53W_X':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS37732@XZCMECBDDGK53W.XZCMECBDDGK53W.NORMAL(CHIPS)':
+ C_PATH='@echolight.echolight(sch_1):ins37732@xzcmecbddgk53w.\xzcmecbddgk53w.normal\(chips)',
+ P_PATH='@echolight.echolight(sch_1):page4_ins37732@xzcmecbddgk53w.\xzcmecbddgk53w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(410,230)',
+ SECTION='';
+
+PART_NAME
+ MIC1 'ICS-43434_3_LGA_CAV_IVS_ICS-434':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS1288@ECHOLIGHT.ICS-43434_3.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins1288@echolight.\ics-43434_3.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page1_ins1288@echolight.\ics-43434_3.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,430)',
+ SECTION='';
+
+PART_NAME
+ R1 'ERA-3AEB154V_RC0603N_PAN_150 KO':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS2248@P150KDBTR-ND.ERA-3AEB154V.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins2248@\p150kdbtr-nd\.\era-3aeb154v.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page3_ins2248@\p150kdbtr-nd\.\era-3aeb154v.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,200)',
+ SECTION='';
+
+PART_NAME
+ R2 'RC0805FR-07680KL_RC0805N_YAG_68':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS2350@311-680KCRCT-ND.RC0805FR-07680KL.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins2350@\311-680kcrct-nd\.\rc0805fr-07680kl.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page3_ins2350@\311-680kcrct-nd\.\rc0805fr-07680kl.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,270)',
+ SECTION='';
+
+PART_NAME
+ R3 'ERJ-2GEJ181X_RC0402N_PAN_180 OH':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS1806@P180JTR-ND.ERJ-2GEJ181X.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins1806@\p180jtr-nd\.\erj-2gej181x.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page4_ins1806@\p180jtr-nd\.\erj-2gej181x.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(530,190)',
+ SECTION='';
+
+PART_NAME
+ R4 'ERJ-2GEJ181X_RC0402N_PAN_180 OH':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS1790@P180JTR-ND.ERJ-2GEJ181X.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins1790@\p180jtr-nd\.\erj-2gej181x.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page4_ins1790@\p180jtr-nd\.\erj-2gej181x.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(540,250)',
+ SECTION='';
+
+PART_NAME
+ R5 'RMCF1206JT560R_STA_RMCF1206_STP':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS1835@RMCF1206JT560RDKR-ND.RMCF1206JT560R.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins1835@\rmcf1206jt560rdkr-nd\.\rmcf1206jt560r.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page4_ins1835@\rmcf1206jt560rdkr-nd\.\rmcf1206jt560r.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,270)',
+ SECTION='';
+
+PART_NAME
+ R6 'RC0402JR-0710KL_RES_RC_L_RC0402':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS226@311-10KJRTR-ND.RC0402JR-0710KL.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins226@\311-10kjrtr-nd\.\rc0402jr-0710kl.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page6_ins226@\311-10kjrtr-nd\.\rc0402jr-0710kl.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,110)',
+ SECTION='';
+
+PART_NAME
+ R7 'RC0402JR-0710KL_RES_RC_L_RC0402':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS258@311-10KJRTR-ND.RC0402JR-0710KL.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins258@\311-10kjrtr-nd\.\rc0402jr-0710kl.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page6_ins258@\311-10kjrtr-nd\.\rc0402jr-0710kl.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,110)',
+ SECTION='';
+
+PART_NAME
+ R8 'RC0402JR-0710KL_RES_RC_L_RC0402':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS546@311-10KJRTR-ND.RC0402JR-0710KL.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins546@\311-10kjrtr-nd\.\rc0402jr-0710kl.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page6_ins546@\311-10kjrtr-nd\.\rc0402jr-0710kl.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(510,110)',
+ SECTION='';
+
+PART_NAME
+ R9 'RC0603FR-0710KL_RC0603N_YAG_100':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS2009@311-10.0KHRTR-ND.RC0603FR-0710KL.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins2009@\311-10.0khrtr-nd\.\rc0603fr-0710kl.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page7_ins2009@\311-10.0khrtr-nd\.\rc0603fr-0710kl.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(640,230)',
+ SECTION='';
+
+PART_NAME
+ SW1 'EG1218_SW_1218_EWI_SW3':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS2607@EG1903-ND.EG1218.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins2607@\eg1903-nd\.\eg1218.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page3_ins2607@\eg1903-nd\.\eg1218.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,140)',
+ SECTION='';
+
+PART_NAME
+ U1 'MAX1555EZKT_0_21-0113C_MXM-M_MA':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS3976@ECHOLIGHT.MAX1555EZKT_0.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins3976@echolight.\max1555ezkt_0.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page2_ins3976@echolight.\max1555ezkt_0.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(360,170)',
+ SECTION='';
+
+PART_NAME
+ U2 'TLV75801PDBVR_3_SOT-23-5_DBV000':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS2104@ECHOLIGHT.TLV75801PDBVR_3.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins2104@echolight.\tlv75801pdbvr_3.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page3_ins2104@echolight.\tlv75801pdbvr_3.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,190)',
+ SECTION='';
+
+PART_NAME
+ U3 'CC2640R2FRHBT_9_RHB0032E_CC2640':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS46744@ECHOLIGHT.CC2640R2FRHBT_9.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page5_ins46744@echolight.\cc2640r2frhbt_9.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,270)',
+ SECTION='';
+
+PART_NAME
+ U4 'OPT3001DNPR_9_DNP0006A_OPT3001D':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS42@ECHOLIGHT.OPT3001DNPR_9.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins42@echolight.\opt3001dnpr_9.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page6_ins42@echolight.\opt3001dnpr_9.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(190,110)',
+ SECTION='';
+
+PART_NAME
+ U5 'GPTS203211B_1_SWITCH_03211B_SWI':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS3531@ECHOLIGHT.GPTS203211B_1.NORMAL(SCH_1)':
+ C_PATH='@echolight.echolight(sch_1):ins3531@echolight.\gpts203211b_1.normal\(sch_1)',
+ P_PATH='@echolight.echolight(sch_1):page7_ins3531@echolight.\gpts203211b_1.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(470,170)',
+ SECTION='';
+
+PART_NAME
+ Y1 'TSX-3225240000MF15X-AC3_OSCCC32':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS20642@TSX-3225240000MF15X-AC3.TSX-3225240000MF15X-AC3.NORMAL(CHIPS)':
+ C_PATH='@echolight.echolight(sch_1):ins20642@\tsx-3225240000mf15x-ac3\.\tsx-3225240000mf15x-ac3.normal\(chips)',
+ P_PATH='@echolight.echolight(sch_1):page5_ins20642@\tsx-3225240000mf15x-ac3\.\tsx-3225240000mf15x-ac3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(40,370)',
+ SECTION='';
+
+PART_NAME
+ Y2 'ABS07-32768KHZ-T_0_XTAL_ABS07-3':;
+
+SECTION_NUMBER 1
+ '@ECHOLIGHT.ECHOLIGHT(SCH_1):INS20568@ECHOLIGHT.ABS07-32768KHZ-T_0.NORMAL(CHIPS)':
+ C_PATH='@echolight.echolight(sch_1):ins20568@echolight.\abs07-32768khz-t_0.normal\(chips)',
+ P_PATH='@echolight.echolight(sch_1):page5_ins20568@echolight.\abs07-32768khz-t_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(60,510)',
+ SECTION='';
+
+END.

@@ -1,0 +1,63 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : echolight2.brd                                )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Sat Feb  7 22:31:18 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sat Feb  7 22:31:18 2026				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'C:/Users/garci/OneDrive/Desktop/echolight/echolight_7_2/echolight_1/allegro/echolight2.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'NO'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'NO'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'YES'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+Symbol list file                       = 'C:/Users/garci/AppData/Local/Temp/#Taaaabb13376.tmp'
+
+
+------ Library Paths ------
+PSMPATH =  C:/Users/garci/AppData/Roaming/SPB_Data/cdssetup/OrCAD_Capture/25.1.0/downloaded_parts/allegropcb 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/OrCADX_25.1/share/local/pcb/symbols 
+           C:/Cadence/OrCADX_25.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/OrCADX_25.1/share/pcb/allegrolib/symbols 
+           C:/ORCAD_LABORATORIES/workspace/libraries/footprints/downloads 
+           C:/Users/garci/OneDrive/Desktop/EchoLight_2026_11_01_ver2/EchoLight_2026_11_01_ver3/EchoLight/footprints 
+           C:/Users/garci/OneDrive/Desktop/EchoLight_2026_11_01_ver2/EchoLight/footprints 
+           C:/Users/garci/OneDrive/Desktop/echolight/echolight_7_2/echolight_1/allegropcb 
+
+PADPATH =  . 
+
+
+------ Symbol Refresh Messages ------
+
+'IND_LQP03HQ2N0B02D'  symbol refreshed successfully.
+
+
+------ Updating padstacks referring to the refreshed shapes and flash symbols.  ------
+
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 1 out 1
+    Design updated.
+

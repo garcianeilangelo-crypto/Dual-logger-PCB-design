@@ -1,0 +1,35 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    IPC-D-356                                                        )
+(                                                                     )
+(    Software Version : 25.1P001                                      )
+(    Date/Time        : Sat Feb  7 21:46:14 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Warning: String S_R109T129D2M109_129P109_12-4 exceeds record length on line 42 at column 4
+Warning: String S_R109T129D2M109_129P109_12-3 exceeds record length on line 43 at column 4
+Warning: String S_R109T129D2M109_129P109_12-2 exceeds record length on line 44 at column 4
+Warning: String S_R109T129D2M109_129P109_12-1 exceeds record length on line 45 at column 4
+Warning: String S_R90T97M90_97P90_97-1 exceeds record length on line 46 at column 4
+Warning: String S_R110T190M110_190P110_190 exceeds record length on line 60 at column 4
+Warning: String S_R109T129D2M109_129P109_12 exceeds record length on line 65 at column 4
+Warning: String EX20Y20D20P0-1-1-1-1-1-1 exceeds record length on line 70 at column 4
+Warning: String S_R54T60M54_60P54_60-1 exceeds record length on line 89 at column 4
+Warning: String S_R30T30M30_30P30_30-1 exceeds record length on line 91 at column 4
+Warning: String S_R287T124M287_124P287_124 exceeds record length on line 120 at column 4
+Warning: String S_R400T200M400_200P400_200 exceeds record length on line 123 at column 4
+Warning: String S_R59T60D5M59_60P59_60 exceeds record length on line 126 at column 4
+Warning: Found a mechanical pin at location (243.8219 162.2011) with no drill - skipping.
+Warning: Found a mechanical pin at location (250.0219 162.2011) with no drill - skipping.
+Warning: Found a mechanical pin at location (243.1219 159.6511) with no drill - skipping.
+Warning: Found a mechanical pin at location (250.7219 159.6511) with no drill - skipping.
+Warning: Found a mechanical pin at location (245.7219 159.6511) with no drill - skipping.
+Warning: Found a mechanical pin at location (248.1219 159.6511) with no drill - skipping.
+
+
+------------------------------------------
+SUMMARY:
+  Errors:       0
+  Warnings:    19

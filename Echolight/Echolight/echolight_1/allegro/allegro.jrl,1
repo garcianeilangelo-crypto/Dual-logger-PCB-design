@@ -1,0 +1,31 @@
+\t (00:00:01) allegro 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Sat Feb  7 20:11:25 2026
+\t (00:00:01)         Host=PRIME User=garci Pid=4420 CPUs=20
+\t (00:00:01) CmdLine= c:\cadence\orcadx_25.1\tools\bin\allegro.exe C:\Users\garci\OneDrive\Desktop\echolight\echolight_7_2\echolight_1\allegro\echolight2.brd
+\t (00:00:01) 
+\t (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\i (00:00:01) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged echolight2
+\d (00:00:01) Design opened: C:/Users/garci/OneDrive/Desktop/echolight/echolight_7_2/echolight_1/allegro/echolight2.brd
+\i (00:00:01) trapsize 290
+\i (00:00:01) trapsize 296
+\i (00:00:01) trapsize 290
+\i (00:00:02) trapsize 202
+\i (00:00:02) trapsize 341
+\t (00:00:02) > Sending response DoneOpenBoard
+\i (00:00:04) updateport SearchPane
+\i (00:00:04) updateport CVPane
+\i (00:00:04) shapeedit 
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out 224.5078 221.1500
+\t (00:00:04) Loading consmgr.cxt 
+\t (00:00:04) Loading acns_formula.cxt 
+\i (00:00:04) trapsize 681
+\i (00:00:06) exit 
+\t (00:00:13) Lic Summary:
+[20:11:38.097059] Cdslmd servers:C:\Users\garci\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[20:11:38.097299] Feature usage summary:
+[20:11:38.097299] OrCAD_X_PCB_Professional_Plus  
+[20:11:38.097299] OrCAD_X_Professional_Plus  
+\t (00:00:13)     Journal end - Sat Feb  7 20:11:38 2026
