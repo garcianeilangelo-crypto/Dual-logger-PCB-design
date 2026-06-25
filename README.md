@@ -140,7 +140,6 @@ allowing multi-day autonomous operation.
 
 ```text
 echolight/
-├── firmware/
 ├── hardware/
 │   ├── Schematics
 │   ├── PCB Layout
